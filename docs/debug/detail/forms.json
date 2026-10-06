@@ -1,0 +1,74 @@
+[
+  {
+    "id": "frmRegresar",
+    "name": "frmRegresar",
+    "method": "post",
+    "action": "/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "frmRegresar",
+        "placeholder": null,
+        "text": null
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmRegresar:j_idt30",
+        "name": "frmRegresar:j_idt30",
+        "placeholder": null,
+        "text": "Volver a la lista"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "id": "javax.faces.ViewState",
+        "name": "javax.faces.ViewState",
+        "placeholder": null,
+        "text": null
+      }
+    ]
+  },
+  {
+    "id": "frmDetaOferLabo",
+    "name": "frmDetaOferLabo",
+    "method": "post",
+    "action": "/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "frmDetaOferLabo",
+        "placeholder": null,
+        "text": null
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmDetaOferLabo:j_idt48",
+        "name": "frmDetaOferLabo:j_idt48",
+        "placeholder": null,
+        "text": "Imprimir aviso"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmDetaOferLabo:j_idt50",
+        "name": "frmDetaOferLabo:j_idt50",
+        "placeholder": null,
+        "text": "Convocatoria en Word"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "id": "javax.faces.ViewState",
+        "name": "javax.faces.ViewState",
+        "placeholder": null,
+        "text": null
+      }
+    ]
+  }
+]

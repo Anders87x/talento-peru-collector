@@ -1,0 +1,16 @@
+{
+  "capturedAt": "2026-10-06T15:17:37.360Z",
+  "firstTitle": "AUXILIAR JUDICIAL",
+  "firstEntity": "UNIDAD EJECUTORA DE LA CORTE SUPERIOR DE JUSTICIA DEL CALLAO",
+  "buttonId": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
+  "beforeUrl": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/ofertas_laborales.xhtml",
+  "afterUrl": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+  "title": ".:Sistema de Difusión de Ofertas Laborales y Prácticas del Sector Público:. - Detalle de Vacante de Ofertas Laborales",
+  "links": 9,
+  "forms": 2,
+  "inputs": 4,
+  "selects": 0,
+  "buttons": 4,
+  "tables": 0,
+  "iframes": 0
+}

@@ -1,0 +1,220 @@
+{
+  "captured_at": "2026-10-06T15:16:36.708Z",
+  "source": "talento_peru",
+  "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/ofertas_laborales.xhtml",
+  "current_page": 1,
+  "total_pages": 393,
+  "total_jobs": 3922,
+  "jobs": [
+    {
+      "index": 0,
+      "title": "AUXILIAR JUDICIAL",
+      "entity": "UNIDAD EJECUTORA DE LA CORTE SUPERIOR DE JUSTICIA DEL CALLAO",
+      "location": "CALLAO - CALLAO",
+      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-063",
+      "vacancies": 2,
+      "salary_text": "S/. 2,900.00",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt81",
+      "raw_fields": {
+        "ubicacion": "CALLAO - CALLAO",
+        "numero_de_convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-063",
+        "cantidad_de_vacantes": "2",
+        "remuneracion": "S/. 2,900.00",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 1,
+      "title": "ESPECIALISTA JUDICIAL DE JUZGADO",
+      "entity": "UNIDAD EJECUTORA DE LA CORTE SUPERIOR DE JUSTICIA DEL CALLAO",
+      "location": "CALLAO - CALLAO",
+      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-063",
+      "vacancies": 1,
+      "salary_text": "S/. 3,850.00",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt81",
+      "raw_fields": {
+        "ubicacion": "CALLAO - CALLAO",
+        "numero_de_convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-063",
+        "cantidad_de_vacantes": "1",
+        "remuneracion": "S/. 3,850.00",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 2,
+      "title": "ABOGADO I",
+      "entity": "DIRECCION REGIONAL DE SALUD ANCASH",
+      "location": "ANCASH - HUARAZ",
+      "convocatoria": "276-001",
+      "vacancies": 1,
+      "salary_text": "S/. 1,444.00",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt81",
+      "raw_fields": {
+        "ubicacion": "ANCASH - HUARAZ",
+        "numero_de_convocatoria": "276-001",
+        "cantidad_de_vacantes": "1",
+        "remuneracion": "S/. 1,444.00",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 3,
+      "title": "ASISTENTES ADMINISTRATIVOS ( TECNICO EN SECRETARIADO , COMPUTACION E INFORMATICA - TECNICO",
+      "entity": "MICRO REGION ALTO HUALLAGA",
+      "location": "SAN MARTIN - TOCACHE",
+      "convocatoria": "276-01",
+      "vacancies": 2,
+      "salary_text": "S/. 2,650.00",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt81",
+      "raw_fields": {
+        "ubicacion": "SAN MARTIN - TOCACHE",
+        "numero_de_convocatoria": "276-01",
+        "cantidad_de_vacantes": "2",
+        "remuneracion": "S/. 2,650.00",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 4,
+      "title": "TRABAJADOR DE SERVICIOS GENERALES",
+      "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+      "location": "SAN MARTIN - TARAPOTO",
+      "convocatoria": "276-09",
+      "vacancies": 1,
+      "salary_text": "S/. 2,722.00",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt81",
+      "raw_fields": {
+        "ubicacion": "SAN MARTIN - TARAPOTO",
+        "numero_de_convocatoria": "276-09",
+        "cantidad_de_vacantes": "1",
+        "remuneracion": "S/. 2,722.00",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 5,
+      "title": "MÉDICO ESPECIALISTA",
+      "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+      "location": "SAN MARTIN - TARAPOTO",
+      "convocatoria": "276-10",
+      "vacancies": 1,
+      "salary_text": "S/. 9,786.40",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt81",
+      "raw_fields": {
+        "ubicacion": "SAN MARTIN - TARAPOTO",
+        "numero_de_convocatoria": "276-10",
+        "cantidad_de_vacantes": "1",
+        "remuneracion": "S/. 9,786.40",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 6,
+      "title": "MÉDICO",
+      "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+      "location": "SAN MARTIN - TARAPOTO",
+      "convocatoria": "276-09",
+      "vacancies": 1,
+      "salary_text": "S/. 6,666.40",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt81",
+      "raw_fields": {
+        "ubicacion": "SAN MARTIN - TARAPOTO",
+        "numero_de_convocatoria": "276-09",
+        "cantidad_de_vacantes": "1",
+        "remuneracion": "S/. 6,666.40",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 7,
+      "title": "MÉDICO",
+      "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+      "location": "SAN MARTIN - TARAPOTO",
+      "convocatoria": "276-10",
+      "vacancies": 1,
+      "salary_text": "S/. 7,914.40",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt81",
+      "raw_fields": {
+        "ubicacion": "SAN MARTIN - TARAPOTO",
+        "numero_de_convocatoria": "276-10",
+        "cantidad_de_vacantes": "1",
+        "remuneracion": "S/. 7,914.40",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 8,
+      "title": "ENFERMERA/O",
+      "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+      "location": "SAN MARTIN - TARAPOTO",
+      "convocatoria": "276-10",
+      "vacancies": 1,
+      "salary_text": "S/. 5,342.40",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt81",
+      "raw_fields": {
+        "ubicacion": "SAN MARTIN - TARAPOTO",
+        "numero_de_convocatoria": "276-10",
+        "cantidad_de_vacantes": "1",
+        "remuneracion": "S/. 5,342.40",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    },
+    {
+      "index": 9,
+      "title": "SUPERVISOR ESPECIALISTA (SUPLENCIA)",
+      "entity": "ORGANISMO SUPERVISOR DE INVERSION PRIVADA EN TELECOMUNICACIONES-OSIPTEL",
+      "location": "LIMA - SAN BORJA",
+      "convocatoria": "728-010",
+      "vacancies": 1,
+      "salary_text": "S/. 7,304.11",
+      "publication_start": "06/10/2026",
+      "publication_end": "20/10/2026",
+      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
+      "word_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt81",
+      "raw_fields": {
+        "ubicacion": "LIMA - SAN BORJA",
+        "numero_de_convocatoria": "728-010",
+        "cantidad_de_vacantes": "1",
+        "remuneracion": "S/. 7,304.11",
+        "fecha_inicio_de_publicacion": "06/10/2026",
+        "fecha_fin_de_publicacion": "20/10/2026"
+      }
+    }
+  ]
+}
