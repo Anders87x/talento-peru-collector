@@ -145,3 +145,26 @@ npm run collect:today -- --date=06/10/2026 --limit=20
 ```
 
 El JSON incluye la información del listado y, para los detalles procesados, experiencia, formación académica, especialización, conocimientos, competencias, URL de postulación y el identificador interno de Talento Perú.
+
+
+### Límite de páginas
+
+Por defecto el recolector revisa como máximo **10 páginas** del listado diario:
+
+```bash
+npm run collect:today
+```
+
+Si alguna vez quieres ampliar o reducir temporalmente ese límite:
+
+```bash
+npm run collect:today -- --max-pages=5
+```
+
+o:
+
+```bash
+npm run collect:today -- --max-pages=20
+```
+
+El filtro por fecha sigue activo; dentro de esas páginas solo se conservan las ofertas cuya fecha de inicio de publicación coincide con la fecha objetivo.
