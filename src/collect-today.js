@@ -288,7 +288,7 @@ async function extractDetail(page) {
 
   const targetDate = getArg("date") || limaToday();
   const detailLimit = Number(getArg("limit") || 10);
-  const maxPages = Number(getArg("max-pages") || 100);
+  const maxPages = Number(getArg("max-pages") || 10);
 
   if (!parseDate(targetDate)) {
     throw new Error(
