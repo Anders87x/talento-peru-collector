@@ -168,3 +168,50 @@ npm run collect:today -- --max-pages=20
 ```
 
 El filtro por fecha sigue activo; dentro de esas páginas solo se conservan las ofertas cuya fecha de inicio de publicación coincide con la fecha objetivo.
+
+
+## Payload listo para Laravel
+
+El recolector mantiene dos archivos diferentes:
+
+```text
+docs/results/today-jobs.json
+```
+
+Archivo de diagnóstico, con índices, páginas, botones y datos crudos del scraping.
+
+```text
+docs/results/laravel-payload.json
+```
+
+Payload limpio que usaremos más adelante para el endpoint de Laravel.
+
+Cada ejecución exitosa de:
+
+```bash
+npm run collect:today
+```
+
+genera ambos archivos.
+
+También puedes reconstruir el payload limpio sin volver a entrar a Talento Perú:
+
+```bash
+npm run payload:build
+```
+
+La estructura preparada para Laravel es:
+
+```json
+{
+  "schema_version": 1,
+  "source": "talento_peru",
+  "collected_at": "2026-10-06T15:52:28.784Z",
+  "publication_date": "2026-10-06",
+  "discovered_count": 30,
+  "ready_count": 30,
+  "jobs": []
+}
+```
+
+Cada empleo incluye `source + external_id`, combinación que usaremos para evitar duplicados en Laravel.
