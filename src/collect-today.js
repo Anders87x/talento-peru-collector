@@ -263,18 +263,23 @@ async function extractDetail(page) {
     );
     const referenceMatch = referenceText.match(/(\d{4,})/);
 
+    const findRequirement = (...parts) => {
+      const entry = Object.entries(requirements).find(([key]) =>
+        parts.every((part) => key.includes(part))
+      );
+
+      return entry ? entry[1] : null;
+    };
+
     return {
       external_id: referenceMatch ? referenceMatch[1] : null,
       title: clean(document.querySelector(".sp-aviso0")?.textContent),
       entity: clean(document.querySelector(".sp-aviso")?.textContent),
-      experience: requirements.experiencia || null,
-      academic_profile:
-        requirements.formacion_academica_-_perfil ||
-        requirements.formacion_academica_perfil ||
-        null,
-      specialization: requirements.especializacion || null,
-      knowledge: requirements.conocimiento || null,
-      competencies: requirements.competencias || null,
+      experience: findRequirement("experiencia"),
+      academic_profile: findRequirement("formacion", "academica"),
+      specialization: findRequirement("especializacion"),
+      knowledge: findRequirement("conocimiento"),
+      competencies: findRequirement("competencias"),
       application_url: applicationUrl,
       application_text: applicationText,
       source_detail_url: location.href,
