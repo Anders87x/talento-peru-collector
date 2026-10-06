@@ -1,0 +1,93 @@
+[
+  {
+    "method": "GET",
+    "resourceType": "document",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/ofertas_laborales.xhtml",
+    "contentType": "text/html;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/theme.css?ln=primefaces-aristo",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/css/bootstrap.min.css",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/css/fonts.css",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/css/css_font/animation.css",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/css/styles.css",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/css/css_font/fontello.css",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "POST",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=439347967&t=pageview&_s=1&dl=https%3A%2F%2Fapp.servir.gob.pe%2FDifusionOfertasExterno%2Ffaces%2Fconsultas%2Fofertas_laborales.xhtml&dp=event&ul=es-pe&dt=.%3ASistema%20de%20Difusi%C3%B3n%20de%20Ofertas%20Laborales%20y%20Pr%C3%A1cticas%20del%20Sector%20P%C3%BAblico%3A.%20-%20Ofertas%20Laborales%20(Convocatoria%20P%C3%BAblica)&sr=1440x1000&vp=1440x1000&_u=IEBAAEABAAAAACAAI~&jid=1026691498&gjid=583219605&cid=1926624244.1791299451&tid=UA-154559467-3&_gid=573604215.1791299451&_r=1&_slc=1&z=573775590",
+    "contentType": "text/plain"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/css/font-awesome.min.css",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/css/jquery.realperson.css",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/css/main.css",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/watermark/watermark.css?ln=primefaces&v=5.3",
+    "contentType": "text/css;charset=UTF-8"
+  },
+  {
+    "method": "GET",
+    "resourceType": "xhr",
+    "status": 200,
+    "url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/javax.faces.resource/primefaces.css?ln=primefaces&v=5.3",
+    "contentType": "text/css;charset=UTF-8"
+  }
+]

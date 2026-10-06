@@ -1,0 +1,62 @@
+[
+  {
+    "text": "servir",
+    "href": "https://www.servir.gob.pe/",
+    "id": "box-logo",
+    "className": "navbar-brand"
+  },
+  {
+    "text": "Talento",
+    "href": null,
+    "id": "box-logo3",
+    "className": "navbar-brand"
+  },
+  {
+    "text": "Menú",
+    "href": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/ofertas_laborales.xhtml#",
+    "id": null,
+    "className": null
+  },
+  {
+    "text": "Ofertas Laborales (Convocatoria Pública)",
+    "href": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/ofertas_laborales.xhtml",
+    "id": null,
+    "className": null
+  },
+  {
+    "text": "Prácticas",
+    "href": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/modalidades_formativas.xhtml",
+    "id": null,
+    "className": null
+  },
+  {
+    "text": "Contratación Directa Decreto de Urgencia 029-2020",
+    "href": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/contratacion_directa.xhtml",
+    "id": null,
+    "className": null
+  },
+  {
+    "text": "Cooperación Laboral Decreto Legislativo N° 1456",
+    "href": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/cooperacion_laboral.xhtml",
+    "id": null,
+    "className": null
+  },
+  {
+    "text": "Ver Convocatorias Talento V.2",
+    "href": "https://talentoentidad.servir.gob.pe/#/home",
+    "id": null,
+    "className": null
+  },
+  {
+    "text": "",
+    "href": null,
+    "id": "box-logo7",
+    "className": "navbar-brand"
+  },
+  {
+    "text": "aquí",
+    "href": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/resources/manuales/guia_leer_en_word.pdf",
+    "id": null,
+    "className": null
+  }
+]

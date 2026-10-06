@@ -1,0 +1,330 @@
+[
+  {
+    "tag": "button",
+    "type": "button",
+    "id": null,
+    "name": null,
+    "value": null,
+    "text": ""
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "id": null,
+    "name": "frmLstOfertsLabo",
+    "value": "[hidden]",
+    "text": null
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "id": "frmLstOfertsLabo:modalidadAcceso",
+    "name": "frmLstOfertsLabo:modalidadAcceso",
+    "value": "[hidden]",
+    "text": null
+  },
+  {
+    "tag": "input",
+    "type": "text",
+    "id": "frmLstOfertsLabo:txtPerfil",
+    "name": "frmLstOfertsLabo:txtPerfil",
+    "value": null,
+    "text": null
+  },
+  {
+    "tag": "input",
+    "type": "text",
+    "id": "frmLstOfertsLabo:cboDep_focus",
+    "name": "frmLstOfertsLabo:cboDep_focus",
+    "value": null,
+    "text": null
+  },
+  {
+    "tag": "select",
+    "type": null,
+    "id": "frmLstOfertsLabo:cboDep_input",
+    "name": "frmLstOfertsLabo:cboDep_input",
+    "value": "0",
+    "text": null
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt46",
+    "name": "frmLstOfertsLabo:j_idt46",
+    "value": null,
+    "text": "Buscar"
+  },
+  {
+    "tag": "input",
+    "type": "text",
+    "id": "frmLstOfertsLabo:txtPuesto",
+    "name": "frmLstOfertsLabo:txtPuesto",
+    "value": null,
+    "text": null
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt51",
+    "name": "frmLstOfertsLabo:j_idt51",
+    "value": null,
+    "text": "Limpiar"
+  },
+  {
+    "tag": "input",
+    "type": "text",
+    "id": "frmLstOfertsLabo:autocompletar_input",
+    "name": "frmLstOfertsLabo:autocompletar_input",
+    "value": null,
+    "text": null
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "id": "frmLstOfertsLabo:autocompletar_hinput",
+    "name": "frmLstOfertsLabo:autocompletar_hinput",
+    "value": "[hidden]",
+    "text": null
+  },
+  {
+    "tag": "input",
+    "type": "text",
+    "id": "frmLstOfertsLabo:txtNroConv",
+    "name": "frmLstOfertsLabo:txtNroConv",
+    "value": null,
+    "text": null
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt58",
+    "name": "frmLstOfertsLabo:j_idt58",
+    "value": null,
+    "text": "Primero"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt60",
+    "name": "frmLstOfertsLabo:j_idt60",
+    "value": null,
+    "text": "Atras"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt62",
+    "name": "frmLstOfertsLabo:j_idt62",
+    "value": null,
+    "text": "Sig."
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt63",
+    "name": "frmLstOfertsLabo:j_idt63",
+    "value": null,
+    "text": "Último"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
+    "value": null,
+    "text": "¡Ver más!"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt81",
+    "name": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt81",
+    "value": null,
+    "text": "Convocatoria en\nWord"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt86",
+    "name": "frmLstOfertsLabo:j_idt86",
+    "value": null,
+    "text": "Primero"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt87",
+    "name": "frmLstOfertsLabo:j_idt87",
+    "value": null,
+    "text": "Atras"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt89",
+    "name": "frmLstOfertsLabo:j_idt89",
+    "value": null,
+    "text": "Sig."
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "id": "frmLstOfertsLabo:j_idt90",
+    "name": "frmLstOfertsLabo:j_idt90",
+    "value": null,
+    "text": "Último"
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "id": "javax.faces.ViewState",
+    "name": "javax.faces.ViewState",
+    "value": "[hidden]",
+    "text": null
+  }
+]

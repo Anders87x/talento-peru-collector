@@ -1,0 +1,330 @@
+[
+  {
+    "id": "frmLstOfertsLabo",
+    "name": "frmLstOfertsLabo",
+    "method": "post",
+    "action": "/DifusionOfertasExterno/faces/consultas/ofertas_laborales.xhtml",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "id": null,
+        "name": "frmLstOfertsLabo",
+        "placeholder": null,
+        "text": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "id": "frmLstOfertsLabo:modalidadAcceso",
+        "name": "frmLstOfertsLabo:modalidadAcceso",
+        "placeholder": null,
+        "text": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "id": "frmLstOfertsLabo:txtPerfil",
+        "name": "frmLstOfertsLabo:txtPerfil",
+        "placeholder": "Coloca el perfil que estás buscando",
+        "text": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "id": "frmLstOfertsLabo:cboDep_focus",
+        "name": "frmLstOfertsLabo:cboDep_focus",
+        "placeholder": null,
+        "text": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "id": "frmLstOfertsLabo:cboDep_input",
+        "name": "frmLstOfertsLabo:cboDep_input",
+        "placeholder": null,
+        "text": null
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt46",
+        "name": "frmLstOfertsLabo:j_idt46",
+        "placeholder": null,
+        "text": "Buscar"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "id": "frmLstOfertsLabo:txtPuesto",
+        "name": "frmLstOfertsLabo:txtPuesto",
+        "placeholder": "Coloca el puesto que estás buscando",
+        "text": null
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt51",
+        "name": "frmLstOfertsLabo:j_idt51",
+        "placeholder": null,
+        "text": "Limpiar"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "id": "frmLstOfertsLabo:autocompletar_input",
+        "name": "frmLstOfertsLabo:autocompletar_input",
+        "placeholder": "INSTITUCIONES PÚBLICAS",
+        "text": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "id": "frmLstOfertsLabo:autocompletar_hinput",
+        "name": "frmLstOfertsLabo:autocompletar_hinput",
+        "placeholder": null,
+        "text": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "id": "frmLstOfertsLabo:txtNroConv",
+        "name": "frmLstOfertsLabo:txtNroConv",
+        "placeholder": "Coloca el número de convocatoria",
+        "text": null
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt58",
+        "name": "frmLstOfertsLabo:j_idt58",
+        "placeholder": null,
+        "text": "Primero"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt60",
+        "name": "frmLstOfertsLabo:j_idt60",
+        "placeholder": null,
+        "text": "Atras"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt62",
+        "name": "frmLstOfertsLabo:j_idt62",
+        "placeholder": null,
+        "text": "Sig."
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt63",
+        "name": "frmLstOfertsLabo:j_idt63",
+        "placeholder": null,
+        "text": "Último"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
+        "placeholder": null,
+        "text": "¡Ver más!"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt81",
+        "name": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt81",
+        "placeholder": null,
+        "text": "Convocatoria en\nWord"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt86",
+        "name": "frmLstOfertsLabo:j_idt86",
+        "placeholder": null,
+        "text": "Primero"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt87",
+        "name": "frmLstOfertsLabo:j_idt87",
+        "placeholder": null,
+        "text": "Atras"
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt89",
+        "name": "frmLstOfertsLabo:j_idt89",
+        "placeholder": null,
+        "text": "Sig."
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "id": "frmLstOfertsLabo:j_idt90",
+        "name": "frmLstOfertsLabo:j_idt90",
+        "placeholder": null,
+        "text": "Último"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "id": "javax.faces.ViewState",
+        "name": "javax.faces.ViewState",
+        "placeholder": null,
+        "text": null
+      }
+    ]
+  }
+]
