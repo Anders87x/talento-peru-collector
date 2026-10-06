@@ -1,0 +1,22 @@
+{
+  "name": "talento-peru-collector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anders87x/talento-peru-collector.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Anders87x/talento-peru-collector/issues"
+  },
+  "homepage": "https://github.com/Anders87x/talento-peru-collector#readme",
+  "dependencies": {
+    "playwright": "^1.63.0"
+  }
+}

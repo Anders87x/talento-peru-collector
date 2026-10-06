@@ -1,0 +1,38 @@
+name: Talento Peru - Prueba
+
+on:
+  workflow_dispatch:
+
+jobs:
+
+  test:
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 10
+
+    steps:
+
+      - name: Descargar repositorio
+        uses: actions/checkout@v6
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Instalar Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Probar Talento Peru
+        run: node src/test-talento.js
+
+      - name: Guardar screenshot
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: talento-peru-screenshot
+          path: output/
