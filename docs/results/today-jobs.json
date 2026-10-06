@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-06T15:44:24.247Z",
+  "captured_at": "2026-10-06T15:52:28.784Z",
   "source": "talento_peru",
   "target_date": "06/10/2026",
   "discovered_pages": [
@@ -386,7 +386,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
       "source_page": 2,
       "salary": 7000,
-      "detail": null
+      "detail": {
+        "external_id": "816470",
+        "title": "EJECUTIVO(A) 2 - SUPLENCIA",
+        "entity": "INDECOPI",
+        "experience": "MÍNIMA PROFESIONAL DE CUATRO (4) AÑOS DESEMPEÑANDO LABORES SIMILARES.",
+        "academic_profile": "PROFESIONAL TITULADO EN INGENIERÍA DE SISTEMAS, ELECTRÓNICA, INFORMÁTICA, O COMPUTACIÓN.",
+        "specialization": "NO APLICA.",
+        "knowledge": "MANEJO DE SISTEMAS DE ADMINISTRACIÓN DE BASE DE DATOS (NIVEL AVANZADO) GESTIÓN DE PROYECTOS (NIVEL AVANZADO) HERRAMIENTAS DE ANÁLISIS, DISEÑO, IMPLEMENTACIÓN DE SISTEMAS DE INFORMACIÓN (NIVEL AVANZADO) MANEJO AVANZADO EN LA ADMINISTRACIÓN DE SERVIDORES DE APLICACIONES J2EE MANEJO EN LA ADMINISTRACIÓN DE LOS SERVIDORES LINUX (NIVEL AVANZADO) CONOCIMIENTO AVANZADOS EN ETHICAL HACKING (CEH) CONOCIMIENTO EN CISSP.",
+        "competencies": "ADECUACIÓN A NORMAS Y PROCEDIMIENTOS, CAPACIDAD MULTIFUNCIONAL, GESTIÓN DEL CLIMA LABORAL, ORIENTACION A RESULTADOS, SOLUCION EFECTIVA DE PROBLEMAS",
+        "application_url": "https://oportunidadeslaborales.indecopi.gob.pe/convocatorias-cap/",
+        "application_text": "https://oportunidadeslaborales.indecopi.gob.pe/convocatorias-cap/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "MÍNIMA PROFESIONAL DE CUATRO (4) AÑOS DESEMPEÑANDO LABORES SIMILARES.",
+          "formacion_academica_-_perfil": "PROFESIONAL TITULADO EN INGENIERÍA DE SISTEMAS, ELECTRÓNICA, INFORMÁTICA, O COMPUTACIÓN.",
+          "especializacion": "NO APLICA.",
+          "conocimiento": "MANEJO DE SISTEMAS DE ADMINISTRACIÓN DE BASE DE DATOS (NIVEL AVANZADO) GESTIÓN DE PROYECTOS (NIVEL AVANZADO) HERRAMIENTAS DE ANÁLISIS, DISEÑO, IMPLEMENTACIÓN DE SISTEMAS DE INFORMACIÓN (NIVEL AVANZADO) MANEJO AVANZADO EN LA ADMINISTRACIÓN DE SERVIDORES DE APLICACIONES J2EE MANEJO EN LA ADMINISTRACIÓN DE LOS SERVIDORES LINUX (NIVEL AVANZADO) CONOCIMIENTO AVANZADOS EN ETHICAL HACKING (CEH) CONOCIMIENTO EN CISSP.",
+          "competencias": "ADECUACIÓN A NORMAS Y PROCEDIMIENTOS, CAPACIDAD MULTIFUNCIONAL, GESTIÓN DEL CLIMA LABORAL, ORIENTACION A RESULTADOS, SOLUCION EFECTIVA DE PROBLEMAS"
+        }
+      }
     },
     {
       "index": 1,
@@ -401,7 +420,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
       "source_page": 2,
       "salary": 14500,
-      "detail": null
+      "detail": {
+        "external_id": "816473",
+        "title": "ASESOR(A)",
+        "entity": "INDECOPI",
+        "experience": "EXPERIENCIA GENERAL DE CUATRO (4) AÑOS. EXPERIENCIA ESPECÍFICA ASOCIADA A LA FUNCIÓN O MATERIA: TRES (3) AÑOS.",
+        "academic_profile": "TÍTULO PROFESIONAL EN DERECHO O ECONOMÍA O INGENIERÍA ECONÓMICA",
+        "specialization": "PROGRAMA DE ESPECIALIZACIÓN O DIPLOMADO EN DERECHO SOCIETARIO O DERECHO CORPORATIVO O DERECHO DE LIBRE COMPETENCIA O REGULACIÓN O MICROECONOMÍA O MACROECONOMÍA O DERECHO ADMINISTRATIVO O ANÁLISIS ECONÓMICO DEL DERECHO O POLÍTICAS PÚBLICAS O ECONOMÍA POLÍTICA U ORGANIZACIÓN INDUSTRIAL O MANEJO DE PAQUETES ECONOMÉTRICOS O AFINES.",
+        "knowledge": "CONOCIMIENTOS DE OFIMÁTICA (PROCESADOR DE TEXTOS, PROGRAMA DE PRESENTACIONES Y HOJAS DE CÁLCULO) A NIVEL BÁSICO.",
+        "competencies": "NO APLICA.",
+        "application_url": "https://oportunidadeslaborales.indecopi.gob.pe/convocatorias-cap/",
+        "application_text": "https://oportunidadeslaborales.indecopi.gob.pe/convocatorias-cap/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "EXPERIENCIA GENERAL DE CUATRO (4) AÑOS. EXPERIENCIA ESPECÍFICA ASOCIADA A LA FUNCIÓN O MATERIA: TRES (3) AÑOS.",
+          "formacion_academica_-_perfil": "TÍTULO PROFESIONAL EN DERECHO O ECONOMÍA O INGENIERÍA ECONÓMICA",
+          "especializacion": "PROGRAMA DE ESPECIALIZACIÓN O DIPLOMADO EN DERECHO SOCIETARIO O DERECHO CORPORATIVO O DERECHO DE LIBRE COMPETENCIA O REGULACIÓN O MICROECONOMÍA O MACROECONOMÍA O DERECHO ADMINISTRATIVO O ANÁLISIS ECONÓMICO DEL DERECHO O POLÍTICAS PÚBLICAS O ECONOMÍA POLÍTICA U ORGANIZACIÓN INDUSTRIAL O MANEJO DE PAQUETES ECONOMÉTRICOS O AFINES.",
+          "conocimiento": "CONOCIMIENTOS DE OFIMÁTICA (PROCESADOR DE TEXTOS, PROGRAMA DE PRESENTACIONES Y HOJAS DE CÁLCULO) A NIVEL BÁSICO.",
+          "competencias": "NO APLICA."
+        }
+      }
     },
     {
       "index": 2,
@@ -416,7 +454,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
       "source_page": 2,
       "salary": 15299,
-      "detail": null
+      "detail": {
+        "external_id": "816543",
+        "title": "ESPECIALISTA LEGAL IV",
+        "entity": "AGENCIA DE PROMOCION DE LA INVERSION PRIVADA - PROINVERSION",
+        "experience": "OCHO (08) AÑOS DE EXPERIENCIA GENERAL EN EL SECTOR PÚBLICO O PRIVADO CUATRO (04) AÑOS EN FUNCIONES O MATERIA EN CARGOS DE ESPECIALISTA EN EL SECTOR PÚBLICO O PRIVADO. PARTICIPACIÓN COMO ESPECIALISTA EN, AL MENOS, DOS (02) PROYECTOS DESARROLLADOS BAJO LA MODALIDAD DE ASOCIACIONES PÚBLICO PRIVADA.",
+        "academic_profile": "TÍTULO UNIVERSITARIO EN DERECHO.",
+        "specialization": "GRADO DE MAESTRÍA EN GESTIÓN PÚBLICA, REGULACIÓN DE SERVICIOS PÚBLICOS, GESTIÓN Y/O DIRECCIÓN DE PROYECTOS Y/O AFINES.",
+        "knowledge": "ASOCIACIONES PÚBLICO-PRIVADAS, GESTIÓN DE PROYECTOS, GESTIÓN PÚBLICA Y REGULACIÓN DE SERVICIOS PÚBLICOS.",
+        "competencies": "ORIENTACIÓN A RESULTADOS, TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, PENSAMIENTO ANALÍTICO, NEGOCIACIÓN Y MANEJO DE CONFLICTOS.",
+        "application_url": "https://www.investinperu.pe/convocatorias-laborales/",
+        "application_text": "https://www.investinperu.pe/convocatorias-laborales/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "OCHO (08) AÑOS DE EXPERIENCIA GENERAL EN EL SECTOR PÚBLICO O PRIVADO CUATRO (04) AÑOS EN FUNCIONES O MATERIA EN CARGOS DE ESPECIALISTA EN EL SECTOR PÚBLICO O PRIVADO. PARTICIPACIÓN COMO ESPECIALISTA EN, AL MENOS, DOS (02) PROYECTOS DESARROLLADOS BAJO LA MODALIDAD DE ASOCIACIONES PÚBLICO PRIVADA.",
+          "formacion_academica_-_perfil": "TÍTULO UNIVERSITARIO EN DERECHO.",
+          "especializacion": "GRADO DE MAESTRÍA EN GESTIÓN PÚBLICA, REGULACIÓN DE SERVICIOS PÚBLICOS, GESTIÓN Y/O DIRECCIÓN DE PROYECTOS Y/O AFINES.",
+          "conocimiento": "ASOCIACIONES PÚBLICO-PRIVADAS, GESTIÓN DE PROYECTOS, GESTIÓN PÚBLICA Y REGULACIÓN DE SERVICIOS PÚBLICOS.",
+          "competencias": "ORIENTACIÓN A RESULTADOS, TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, PENSAMIENTO ANALÍTICO, NEGOCIACIÓN Y MANEJO DE CONFLICTOS."
+        }
+      }
     },
     {
       "index": 3,
@@ -431,7 +488,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
       "source_page": 2,
       "salary": 15304.11,
-      "detail": null
+      "detail": {
+        "external_id": "816546",
+        "title": "ESPECIALISTA FINANCIERO IV",
+        "entity": "AGENCIA DE PROMOCION DE LA INVERSION PRIVADA - PROINVERSION",
+        "experience": "OCHO (08) AÑOS DE EXPERIENCIA GENERAL EN EL SECTOR PÚBLICO O PRIVADO CUATRO (04) AÑOS EN FUNCIONES O MATERIA EN CARGOS DE ESPECIALISTA EN EL SECTOR PÚBLICO O PRIVADO. PARTICIPACIÓN COMO ESPECIALISTA EN AL MENOS, DOS (02) PROYECTOS EN ASOCIACIONES PÚBLICO PRIVADA O PROYECTOS DE INFRAESTRUCTURA O FINANCIAMIENTO ESTRUCTURADO U OPERACIONES DE FUSIÓN Y ADQUISICIÓN O FINANCIAMIENTO DE PROYECTOS O FINANZAS CORPORATIVAS.",
+        "academic_profile": "BACHILLER EN INGENIERÍA, CIENCIAS ECONÓMICAS, CIENCIAS CONTABLES O AFINES POR LA FORMACIÓN.",
+        "specialization": "GRADO DE MAESTRÍA EN FINANZAS, ADMINISTRACIÓN, GESTIÓN DE PROYECTOS O AFINES.",
+        "knowledge": "ESTRUCTURACIÓN EN FINANCIAMIENTO DE PROYECTOS DE INVERSIÓN PRIVADA, EVALUACIÓN ECONÓMICO-FINANCIERA DE PROYECTOS Y VALORIZACIÓN DE EMPRESAS.",
+        "competencies": "TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, ORIENTACIÓN A RESULTADOS, PENSAMIENTO ANALÍTICO, COMUNICACIÓN EFECTIVA.",
+        "application_url": "https://www.investinperu.pe/convocatorias-laborales/",
+        "application_text": "https://www.investinperu.pe/convocatorias-laborales/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "OCHO (08) AÑOS DE EXPERIENCIA GENERAL EN EL SECTOR PÚBLICO O PRIVADO CUATRO (04) AÑOS EN FUNCIONES O MATERIA EN CARGOS DE ESPECIALISTA EN EL SECTOR PÚBLICO O PRIVADO. PARTICIPACIÓN COMO ESPECIALISTA EN AL MENOS, DOS (02) PROYECTOS EN ASOCIACIONES PÚBLICO PRIVADA O PROYECTOS DE INFRAESTRUCTURA O FINANCIAMIENTO ESTRUCTURADO U OPERACIONES DE FUSIÓN Y ADQUISICIÓN O FINANCIAMIENTO DE PROYECTOS O FINANZAS CORPORATIVAS.",
+          "formacion_academica_-_perfil": "BACHILLER EN INGENIERÍA, CIENCIAS ECONÓMICAS, CIENCIAS CONTABLES O AFINES POR LA FORMACIÓN.",
+          "especializacion": "GRADO DE MAESTRÍA EN FINANZAS, ADMINISTRACIÓN, GESTIÓN DE PROYECTOS O AFINES.",
+          "conocimiento": "ESTRUCTURACIÓN EN FINANCIAMIENTO DE PROYECTOS DE INVERSIÓN PRIVADA, EVALUACIÓN ECONÓMICO-FINANCIERA DE PROYECTOS Y VALORIZACIÓN DE EMPRESAS.",
+          "competencias": "TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, ORIENTACIÓN A RESULTADOS, PENSAMIENTO ANALÍTICO, COMUNICACIÓN EFECTIVA."
+        }
+      }
     },
     {
       "index": 4,
@@ -446,7 +522,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
       "source_page": 2,
       "salary": 12304.11,
-      "detail": null
+      "detail": {
+        "external_id": "816550",
+        "title": "ESPECIALISTA FINANCIERO III",
+        "entity": "AGENCIA DE PROMOCION DE LA INVERSION PRIVADA - PROINVERSION",
+        "experience": "SIETE (07) AÑOS DE EXPERIENCIA GENERAL EN EL SECTOR PÚBLICO O PRIVADO TRES (03) AÑOS EN FUNCIONES O MATERIA EN CARGOS DE ESPECIALISTA EN EL SECTOR PÚBLICO O PRIVADO. HABER PARTICIPADO COMO ESPECIALISTA EN AL MENOS UN (01) PROYECTO DESARROLLADO BAJO LA MODALIDAD DE ASOCIACIONES PÚBLICO PRIVADA, EN LA FASE DE EJECUCIÓN CONTRACTUAL.",
+        "academic_profile": "BACHILLER EN ECONOMÍA O AFINES POR LA FORMACIÓN.",
+        "specialization": "EGRESADO DE MAESTRÍA EN REGULACIÓN, FINANZAS, ECONOMÍA, GESTIÓN PÚBLICA, GESTIÓN Y/O DIRECCIÓN DE PROYECTOS O AFINES.",
+        "knowledge": "ASOCIACIONES PÚBLICO-PRIVADAS, CALIDAD, GESTIÓN DE PROYECTOS Y GESTIÓN PÚBLICA.",
+        "competencies": "TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, ORIENTACIÓN A RESULTADOS, CAPACIDAD DE ANÁLISIS Y CAPACIDAD DE NEGOCIACIÓN.",
+        "application_url": "https://www.investinperu.pe/convocatorias-laborales/",
+        "application_text": "https://www.investinperu.pe/convocatorias-laborales/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "SIETE (07) AÑOS DE EXPERIENCIA GENERAL EN EL SECTOR PÚBLICO O PRIVADO TRES (03) AÑOS EN FUNCIONES O MATERIA EN CARGOS DE ESPECIALISTA EN EL SECTOR PÚBLICO O PRIVADO. HABER PARTICIPADO COMO ESPECIALISTA EN AL MENOS UN (01) PROYECTO DESARROLLADO BAJO LA MODALIDAD DE ASOCIACIONES PÚBLICO PRIVADA, EN LA FASE DE EJECUCIÓN CONTRACTUAL.",
+          "formacion_academica_-_perfil": "BACHILLER EN ECONOMÍA O AFINES POR LA FORMACIÓN.",
+          "especializacion": "EGRESADO DE MAESTRÍA EN REGULACIÓN, FINANZAS, ECONOMÍA, GESTIÓN PÚBLICA, GESTIÓN Y/O DIRECCIÓN DE PROYECTOS O AFINES.",
+          "conocimiento": "ASOCIACIONES PÚBLICO-PRIVADAS, CALIDAD, GESTIÓN DE PROYECTOS Y GESTIÓN PÚBLICA.",
+          "competencias": "TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, ORIENTACIÓN A RESULTADOS, CAPACIDAD DE ANÁLISIS Y CAPACIDAD DE NEGOCIACIÓN."
+        }
+      }
     },
     {
       "index": 5,
@@ -461,7 +556,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
       "source_page": 2,
       "salary": 12304.11,
-      "detail": null
+      "detail": {
+        "external_id": "816536",
+        "title": "ESPECIALISTA EN PROYECTOS FERROVIARIOS III",
+        "entity": "AGENCIA DE PROMOCION DE LA INVERSION PRIVADA - PROINVERSION",
+        "experience": "SIETE (07) AÑOS DE EXPERIENCIA GENERAL EN EL SECTOR PÚBLICO O PRIVADO TRES (03) AÑOS EN FUNCIONES O MATERIA EN CARGOS DE ESPECIALISTA EN EL SECTOR PÚBLICO O PRIVADO",
+        "academic_profile": "TÍTULO UNIVERSITARIO EN INGENIERÍA CIVIL O AFINES, CON COLEGIATURA Y HABILITACIÓN PROFESIONAL VIGENTE.",
+        "specialization": "EGRESADO DE MAESTRÍA EN GESTIÓN DE PROYECTOS, GESTIÓN PÚBLICA, MBA, INFRAESTRUCTURA, SISTEMAS FERROVIARIOS O SIMILARES.",
+        "knowledge": "ASOCIACIONES PÚBLICO-PRIVADAS, GESTIÓN DE PROYECTOS, INFRAESTRUCTURA O SISTEMAS FERROVIARIOS, EJECUCIÓN CONTRACTUAL.",
+        "competencies": "ORIENTACIÓN A RESULTADOS, TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, CAPACIDAD DE ANÁLISIS, INICIATIVA Y COMUNICACIÓN EFECTIVA.",
+        "application_url": "https://www.investinperu.pe/convocatorias-laborales/",
+        "application_text": "https://www.investinperu.pe/convocatorias-laborales/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "SIETE (07) AÑOS DE EXPERIENCIA GENERAL EN EL SECTOR PÚBLICO O PRIVADO TRES (03) AÑOS EN FUNCIONES O MATERIA EN CARGOS DE ESPECIALISTA EN EL SECTOR PÚBLICO O PRIVADO",
+          "formacion_academica_-_perfil": "TÍTULO UNIVERSITARIO EN INGENIERÍA CIVIL O AFINES, CON COLEGIATURA Y HABILITACIÓN PROFESIONAL VIGENTE.",
+          "especializacion": "EGRESADO DE MAESTRÍA EN GESTIÓN DE PROYECTOS, GESTIÓN PÚBLICA, MBA, INFRAESTRUCTURA, SISTEMAS FERROVIARIOS O SIMILARES.",
+          "conocimiento": "ASOCIACIONES PÚBLICO-PRIVADAS, GESTIÓN DE PROYECTOS, INFRAESTRUCTURA O SISTEMAS FERROVIARIOS, EJECUCIÓN CONTRACTUAL.",
+          "competencias": "ORIENTACIÓN A RESULTADOS, TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, CAPACIDAD DE ANÁLISIS, INICIATIVA Y COMUNICACIÓN EFECTIVA."
+        }
+      }
     },
     {
       "index": 6,
@@ -476,7 +590,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
       "source_page": 2,
       "salary": 1962,
-      "detail": null
+      "detail": {
+        "external_id": "816400",
+        "title": "SECRETARIA DE GERENCIA MUNICIPAL",
+        "entity": "MUNICIPALIDAD DISTRITAL DE SOCOS",
+        "experience": "01 AÑO EN LABORES SIMILARES",
+        "academic_profile": "ESTUDIOS SUPERIORES UNIVERSITARIOS (MÍNIMO 6 SEMESTRES) O TITULO TÉCNICO SUPERIOR DE LA CARRERA DE SECRETARIADO, ADMINISTRACIÓN, CONTABILIDAD O AFINES",
+        "specialization": "NO APLICA",
+        "knowledge": "CONOCIMIENTO EN MICROSOFT WORD, EXCEL, POWER POINT, ENTRE OTROS. - *ACREDITAR",
+        "competencies": "SER PROACTIVO, CON VALORES PERSONALES, TRABAJO BAJO PRESIÓN Y VOCACIÓN DE SERVICIO.",
+        "application_url": "https://www.facebook.com/share/1CApDSSviR/",
+        "application_text": "https://www.facebook.com/share/1CApDSSviR/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "01 AÑO EN LABORES SIMILARES",
+          "formacion_academica_-_perfil": "ESTUDIOS SUPERIORES UNIVERSITARIOS (MÍNIMO 6 SEMESTRES) O TITULO TÉCNICO SUPERIOR DE LA CARRERA DE SECRETARIADO, ADMINISTRACIÓN, CONTABILIDAD O AFINES",
+          "especializacion": "NO APLICA",
+          "conocimiento": "CONOCIMIENTO EN MICROSOFT WORD, EXCEL, POWER POINT, ENTRE OTROS. - *ACREDITAR",
+          "competencias": "SER PROACTIVO, CON VALORES PERSONALES, TRABAJO BAJO PRESIÓN Y VOCACIÓN DE SERVICIO."
+        }
+      }
     },
     {
       "index": 7,
@@ -491,7 +624,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
       "source_page": 2,
       "salary": 2762,
-      "detail": null
+      "detail": {
+        "external_id": "816398",
+        "title": "RESPONSABLE DE LA DIVISION DE ESTUDIOS DE PRE INVERSION - UNIDAD FORMULADORA (UF)",
+        "entity": "MUNICIPALIDAD DISTRITAL DE SOCOS",
+        "experience": "MÍNIMA UN (01) AÑO EN LA ADMINISTRACIÓN PUBLICA",
+        "academic_profile": "TÍTULO UNIVERSITARIO Y/O BACHILLER EN LAS CARRERAS DE INGENIERÍA, ECONOMÍA O AFINES AL CARGO.",
+        "specialization": "NO APLICA",
+        "knowledge": "MANEJO INTERMEDIO DE HERRAMIENTAS DE OFIMÁTICA Y AUTOCAD. *ACREDITAR",
+        "competencies": "SER PROACTIVO, CON VALORES PERSONALES, TRABAJO BAJO PRESIÓN Y VOCACIÓN DE SERVICIO.",
+        "application_url": "https://www.facebook.com/share/1CApDSSviR/",
+        "application_text": "https://www.facebook.com/share/1CApDSSviR/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "MÍNIMA UN (01) AÑO EN LA ADMINISTRACIÓN PUBLICA",
+          "formacion_academica_-_perfil": "TÍTULO UNIVERSITARIO Y/O BACHILLER EN LAS CARRERAS DE INGENIERÍA, ECONOMÍA O AFINES AL CARGO.",
+          "especializacion": "NO APLICA",
+          "conocimiento": "MANEJO INTERMEDIO DE HERRAMIENTAS DE OFIMÁTICA Y AUTOCAD. *ACREDITAR",
+          "competencias": "SER PROACTIVO, CON VALORES PERSONALES, TRABAJO BAJO PRESIÓN Y VOCACIÓN DE SERVICIO."
+        }
+      }
     },
     {
       "index": 8,
@@ -506,7 +658,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
       "source_page": 2,
       "salary": 1664.19,
-      "detail": null
+      "detail": {
+        "external_id": "816440",
+        "title": "PERSONAL DE LIMPIEZA",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "06 MESES",
+        "academic_profile": "EDUCACIÓN SECUNDARIA COMPLETA (ACREDITAR CON CERTIFICADO DE ESTUDIOS)",
+        "specialization": "CURSO EN BUENAS PRÁCTICAS DE MANIPULACIÓN DE ALIMENTOS (BPM) O PROGRAMA DE HIGIENE Y SANEAMIENTO (PHS) O INOCUIDAD ALIMENTARIA O PLAN HACCP",
+        "knowledge": "MANEJO SEGURO DE QUÍMICOS, TÉCNICAS CORRECTAS DE HIGIENE Y LAS NORMAS DE BIOSEGURIDAD PARA GARANTIZAR ESPACIOS LIBRES DE CONTAMINACIÓN",
+        "competencies": "TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, DINAMISMO, ADAPTACIÓN AL CAMBIO Y ALTO SENTIDO DE RESPONSABILIDAD, AGILIDAD MANUAL, DISCIPLINA Y RIGUROSIDAD EN EL CUMPLIMIENTO DE NORMAS DE LIMPIEZA.",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "06 MESES",
+          "formacion_academica_-_perfil": "EDUCACIÓN SECUNDARIA COMPLETA (ACREDITAR CON CERTIFICADO DE ESTUDIOS)",
+          "especializacion": "CURSO EN BUENAS PRÁCTICAS DE MANIPULACIÓN DE ALIMENTOS (BPM) O PROGRAMA DE HIGIENE Y SANEAMIENTO (PHS) O INOCUIDAD ALIMENTARIA O PLAN HACCP",
+          "conocimiento": "MANEJO SEGURO DE QUÍMICOS, TÉCNICAS CORRECTAS DE HIGIENE Y LAS NORMAS DE BIOSEGURIDAD PARA GARANTIZAR ESPACIOS LIBRES DE CONTAMINACIÓN",
+          "competencias": "TRABAJO EN EQUIPO, VOCACIÓN DE SERVICIO, DINAMISMO, ADAPTACIÓN AL CAMBIO Y ALTO SENTIDO DE RESPONSABILIDAD, AGILIDAD MANUAL, DISCIPLINA Y RIGUROSIDAD EN EL CUMPLIMIENTO DE NORMAS DE LIMPIEZA."
+        }
+      }
     },
     {
       "index": 9,
@@ -521,7 +692,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
       "source_page": 2,
       "salary": 4164.19,
-      "detail": null
+      "detail": {
+        "external_id": "816452",
+        "title": "MÉDICO CIRUJANO",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "01 AÑO",
+        "academic_profile": "TÍTULO PROFESIONAL DE MÉDICO CIRUJANO",
+        "specialization": "CURSOS Y/O PROGRAMAS DE ESPECIALIZACIÓN EN ATENCIÓN DE URGENCIAS Y EMERGENCIAS Y/O PRIMEROS AUXILIOS Y/O PROMOCIÓN DE LA SALUD Y/O PREVENCIÓN DE LAS ENFERMEDADES; CURSOS Y/O PROGRAMAS DE ESPECIALIZACIÓN EN OFIMÁTICA A NIVEL INTERMEDIO.",
+        "knowledge": "MANEJO DE URGENCIAS Y EMERGENCIAS, MODELO DE CUIDADO INTEGRAL DE SALUD.",
+        "competencies": "CAPACIDAD DE COORDINACIÓN, ORGANIZACIÓN, LIDERAZGO ORIENTADO AL LOGRO DE LOS OBJETIVOS INSTITUCIONALES, CAPACIDAD PARA TRABAJAR EN EQUIPO Y BAJO PRESIÓN, ACTITUD CRÍTICA Y PROPOSITIVA, ACTITUD PROACTIVA Y CON ORIENTACIÓN A RESULTADOS, ACTITUD Y ÉTICA EN LA ATENCIÓN Y SERVICIO AL ESTUDIANTE.",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "01 AÑO",
+          "formacion_academica_-_perfil": "TÍTULO PROFESIONAL DE MÉDICO CIRUJANO",
+          "especializacion": "CURSOS Y/O PROGRAMAS DE ESPECIALIZACIÓN EN ATENCIÓN DE URGENCIAS Y EMERGENCIAS Y/O PRIMEROS AUXILIOS Y/O PROMOCIÓN DE LA SALUD Y/O PREVENCIÓN DE LAS ENFERMEDADES; CURSOS Y/O PROGRAMAS DE ESPECIALIZACIÓN EN OFIMÁTICA A NIVEL INTERMEDIO.",
+          "conocimiento": "MANEJO DE URGENCIAS Y EMERGENCIAS, MODELO DE CUIDADO INTEGRAL DE SALUD.",
+          "competencias": "CAPACIDAD DE COORDINACIÓN, ORGANIZACIÓN, LIDERAZGO ORIENTADO AL LOGRO DE LOS OBJETIVOS INSTITUCIONALES, CAPACIDAD PARA TRABAJAR EN EQUIPO Y BAJO PRESIÓN, ACTITUD CRÍTICA Y PROPOSITIVA, ACTITUD PROACTIVA Y CON ORIENTACIÓN A RESULTADOS, ACTITUD Y ÉTICA EN LA ATENCIÓN Y SERVICIO AL ESTUDIANTE."
+        }
+      }
     },
     {
       "index": 0,
@@ -536,7 +726,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
       "source_page": 3,
       "salary": 2300,
-      "detail": null
+      "detail": {
+        "external_id": "816411",
+        "title": "INFORMÁTICO",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "01 AÑO",
+        "academic_profile": "GRADO DE BACHILLER EN INGENIERÍA DE SISTEMAS",
+        "specialization": "CERTIFICACIÓN EN OFIMÁTICA A NIVEL INTERMEDIO",
+        "knowledge": "CONOCIMIENTO EN DIGITALIZACIÓN DE DOCUMENTOS, MANTENIMIENTO DE EQUIPOS INFORMÁTICOS.",
+        "competencies": "PLANIFICACIÓN Y ORGANIZACIÓN, ORIENTACIÓN A RESULTADOS, TRABAJO EN EQUIPO, PROACTIVIDAD, COMUNICACIÓN EFECTIVA.",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "01 AÑO",
+          "formacion_academica_-_perfil": "GRADO DE BACHILLER EN INGENIERÍA DE SISTEMAS",
+          "especializacion": "CERTIFICACIÓN EN OFIMÁTICA A NIVEL INTERMEDIO",
+          "conocimiento": "CONOCIMIENTO EN DIGITALIZACIÓN DE DOCUMENTOS, MANTENIMIENTO DE EQUIPOS INFORMÁTICOS.",
+          "competencias": "PLANIFICACIÓN Y ORGANIZACIÓN, ORIENTACIÓN A RESULTADOS, TRABAJO EN EQUIPO, PROACTIVIDAD, COMUNICACIÓN EFECTIVA."
+        }
+      }
     },
     {
       "index": 1,
@@ -551,7 +760,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
       "source_page": 3,
       "salary": 3000,
-      "detail": null
+      "detail": {
+        "external_id": "816449",
+        "title": "ESPECIALISTA EN SEGURIDAD Y SALUD EN EL TRABAJO",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "02 AÑOS",
+        "academic_profile": "TITULADO EN INGENIERÍA, INDUSTRIAL, AMBIENTAL, MINAS, CIVIL, SANITARIO O INGENIERO DE SEGURIDAD Y SALUD EN EL TRABAJO",
+        "specialization": "NORMATIVA LEGAL EN SEGURIDAD Y SALUD EN EL TRABAJO",
+        "knowledge": "REGLAMENTO DE SEGURIDAD Y SALUD EN EL TRABAJO",
+        "competencies": "PLANIFICACIÓN, ORGANIZACIÓN, TRABAJO EN EQUIPO, PROACTIVIDAD",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "02 AÑOS",
+          "formacion_academica_-_perfil": "TITULADO EN INGENIERÍA, INDUSTRIAL, AMBIENTAL, MINAS, CIVIL, SANITARIO O INGENIERO DE SEGURIDAD Y SALUD EN EL TRABAJO",
+          "especializacion": "NORMATIVA LEGAL EN SEGURIDAD Y SALUD EN EL TRABAJO",
+          "conocimiento": "REGLAMENTO DE SEGURIDAD Y SALUD EN EL TRABAJO",
+          "competencias": "PLANIFICACIÓN, ORGANIZACIÓN, TRABAJO EN EQUIPO, PROACTIVIDAD"
+        }
+      }
     },
     {
       "index": 2,
@@ -566,7 +794,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
       "source_page": 3,
       "salary": 4000,
-      "detail": null
+      "detail": {
+        "external_id": "816450",
+        "title": "ESPECIALISTA EN PROYECTOS",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "03 AÑOS",
+        "academic_profile": "TÍTULO PROFESIONAL DE INGENIERO CIVIL",
+        "specialization": "MICROSOFT PROJECT, S10 Y AUTOCAD; INVIERTE.PE; COSTOS Y PRESUPUESTO DE OBRA",
+        "knowledge": "• CONOCIMIENTO DEL SISTEMA NACIONAL DE PROGRAMACIÓN MULTIANUAL Y GESTIÓN DE INVERSIONES (INVIERTE.PE), EN EL MARCO DEL DECRETO LEGISLATIVO N° 1252 Y SU NORMATIVA VIGENTE. • CONOCIMIENTO DE LA NORMATIVA TÉCNICA APLICABLE A PROYECTOS DE INFRAESTRUCTURA, INCLUYENDO EL REGLAMENTO NACIONAL DE EDIFICACIONES, SEGÚN CORRESPONDA.",
+        "competencies": "TRABAJO EN EQUIPO, TRABAJO BAJO PRESIÓN, PLANIFICACIÓN ORGANIZACIÓN, RESPONSABILIDAD.",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "03 AÑOS",
+          "formacion_academica_-_perfil": "TÍTULO PROFESIONAL DE INGENIERO CIVIL",
+          "especializacion": "MICROSOFT PROJECT, S10 Y AUTOCAD; INVIERTE.PE; COSTOS Y PRESUPUESTO DE OBRA",
+          "conocimiento": "• CONOCIMIENTO DEL SISTEMA NACIONAL DE PROGRAMACIÓN MULTIANUAL Y GESTIÓN DE INVERSIONES (INVIERTE.PE), EN EL MARCO DEL DECRETO LEGISLATIVO N° 1252 Y SU NORMATIVA VIGENTE. • CONOCIMIENTO DE LA NORMATIVA TÉCNICA APLICABLE A PROYECTOS DE INFRAESTRUCTURA, INCLUYENDO EL REGLAMENTO NACIONAL DE EDIFICACIONES, SEGÚN CORRESPONDA.",
+          "competencias": "TRABAJO EN EQUIPO, TRABAJO BAJO PRESIÓN, PLANIFICACIÓN ORGANIZACIÓN, RESPONSABILIDAD."
+        }
+      }
     },
     {
       "index": 3,
@@ -581,7 +828,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
       "source_page": 3,
       "salary": 2600,
-      "detail": null
+      "detail": {
+        "external_id": "816444",
+        "title": "ESPECIALISTA EN PRESUPUESTO",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "02 AÑOS",
+        "academic_profile": "TÍTULO UNIVERSITARIO DE ECONOMÍA, ADMINISTRACIÓN O CONTABILIDAD",
+        "specialization": "CURSO Y/O PROGRAMA EN GESTIÓN PÚBLICA Y/O EN GESTIÓN DE INVERSIONES (INVIERTE.PE); CURSO Y/O PROGRAMA EN SISTEMAS ADMINISTRATIVOS DE LA GESTIÓN PÚBLICA (SIAF Y SIGA); CURSO Y/O PROGRAMA EN OFIMÁTICA NIVEL INTERMEDIO",
+        "knowledge": "GESTIÓN PRESUPUESTARIA, GESTIÓN PÚBLICA, GESTIÓN DE PROYECTOS, SISTEMA INTEGRADO DE ADMINISTRACIÓN FINANCIERA, SISTEMA INTEGRADO DE ADMINISTRACIÓN FINANCIERA Y AFINES.",
+        "competencies": "RESPONSABILIDAD, HONRADEZ, ORDEN, EMPATÍA, INICIATIVA Y COOPERACIÓN",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "02 AÑOS",
+          "formacion_academica_-_perfil": "TÍTULO UNIVERSITARIO DE ECONOMÍA, ADMINISTRACIÓN O CONTABILIDAD",
+          "especializacion": "CURSO Y/O PROGRAMA EN GESTIÓN PÚBLICA Y/O EN GESTIÓN DE INVERSIONES (INVIERTE.PE); CURSO Y/O PROGRAMA EN SISTEMAS ADMINISTRATIVOS DE LA GESTIÓN PÚBLICA (SIAF Y SIGA); CURSO Y/O PROGRAMA EN OFIMÁTICA NIVEL INTERMEDIO",
+          "conocimiento": "GESTIÓN PRESUPUESTARIA, GESTIÓN PÚBLICA, GESTIÓN DE PROYECTOS, SISTEMA INTEGRADO DE ADMINISTRACIÓN FINANCIERA, SISTEMA INTEGRADO DE ADMINISTRACIÓN FINANCIERA Y AFINES.",
+          "competencias": "RESPONSABILIDAD, HONRADEZ, ORDEN, EMPATÍA, INICIATIVA Y COOPERACIÓN"
+        }
+      }
     },
     {
       "index": 4,
@@ -596,7 +862,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
       "source_page": 3,
       "salary": 3000,
-      "detail": null
+      "detail": {
+        "external_id": "816447",
+        "title": "ESPECIALISTA EN PLANILLAS",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "02 AÑOS",
+        "academic_profile": "TÍTULO PROFESIONAL UNIVERSITARIO EN ADMINISTRACIÓN, CONTABILIDAD, ECONOMÍA O INGENIERÍA DE SISTEMAS",
+        "specialization": "MANEJO DE PLANILLAS DE REMUNERACIONES ESTATALES, OPERATIVIZACIÓN DEL T-REGISTRO SUNAT, AFPNET Y MÓDULO MCPP WEB DEL MEF",
+        "knowledge": "NORMATIVIDAD DEL SISTEMA ADMINISTRATIVO DE GESTIÓN DE RECURSOS HUMANOS (LEY N° 30057 Y REGÍMENES D.L. 276 Y 1057), LEGISLACIÓN LABORAL PÚBLICA Y NORMATIVIDAD PRESUPUESTARIA DEL SECTOR PÚBLICO",
+        "competencies": "CAPACIDAD DE ANÁLISIS Y ORIENTACIÓN A LA NORMATIVA ESTRICTA, ALTA ATENCIÓN AL DETALLE, ORDEN Y PLANIFICACIÓN, TRABAJO EN EQUIPO Y COMUNICACIÓN EFECTIVA, INTEGRIDAD, ÉTICA Y PROACTIVIDAD",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "02 AÑOS",
+          "formacion_academica_-_perfil": "TÍTULO PROFESIONAL UNIVERSITARIO EN ADMINISTRACIÓN, CONTABILIDAD, ECONOMÍA O INGENIERÍA DE SISTEMAS",
+          "especializacion": "MANEJO DE PLANILLAS DE REMUNERACIONES ESTATALES, OPERATIVIZACIÓN DEL T-REGISTRO SUNAT, AFPNET Y MÓDULO MCPP WEB DEL MEF",
+          "conocimiento": "NORMATIVIDAD DEL SISTEMA ADMINISTRATIVO DE GESTIÓN DE RECURSOS HUMANOS (LEY N° 30057 Y REGÍMENES D.L. 276 Y 1057), LEGISLACIÓN LABORAL PÚBLICA Y NORMATIVIDAD PRESUPUESTARIA DEL SECTOR PÚBLICO",
+          "competencias": "CAPACIDAD DE ANÁLISIS Y ORIENTACIÓN A LA NORMATIVA ESTRICTA, ALTA ATENCIÓN AL DETALLE, ORDEN Y PLANIFICACIÓN, TRABAJO EN EQUIPO Y COMUNICACIÓN EFECTIVA, INTEGRIDAD, ÉTICA Y PROACTIVIDAD"
+        }
+      }
     },
     {
       "index": 5,
@@ -611,7 +896,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
       "source_page": 3,
       "salary": 2800,
-      "detail": null
+      "detail": {
+        "external_id": "816442",
+        "title": "ESPECIALISTA EN PLANEAMIENTO",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "03 AÑOS",
+        "academic_profile": "TITILO PROFESIONAL EN ECONOMÍA, INGENIERÍA INDUSTRIAL, PLANIFICACIÓN Y GESTIÓN ESTRATÉGICA.",
+        "specialization": "CURSO O DIPLOMADO EN PLANEAMIENTO ESTRATÉGICO EN EL SECTOR PÚBLICO O GESTIÓN POR RESULTADOS (MÍNIMO 90 HORAS ACUMULABLES).",
+        "knowledge": "* NORMATIVA DEL SISTEMA NACIONAL DE PLANEAMIENTO ESTRATÉGICO (SINAPLAN) Y DIRECTIVAS DE CEPLAN. * METODOLOGÍA DE GESTIÓN POR RESULTADOS E INDICADORES DE DESEMPEÑO EN EL SECTOR PÚBLICO.",
+        "competencies": "PENSAMIENTO ANALÍTICO Y VISIÓN ESTRATÉGICA., CAPACIDAD DE PLANIFICACIÓN, ORGANIZACIÓN Y ORIENTACIÓN AL LOGRO. COMUNICACIÓN ASERTIVA. TRABAJO EN EQUIPO Y ORIENTACIÓN AL SERVICIO PÚBLICO.",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "03 AÑOS",
+          "formacion_academica_-_perfil": "TITILO PROFESIONAL EN ECONOMÍA, INGENIERÍA INDUSTRIAL, PLANIFICACIÓN Y GESTIÓN ESTRATÉGICA.",
+          "especializacion": "CURSO O DIPLOMADO EN PLANEAMIENTO ESTRATÉGICO EN EL SECTOR PÚBLICO O GESTIÓN POR RESULTADOS (MÍNIMO 90 HORAS ACUMULABLES).",
+          "conocimiento": "* NORMATIVA DEL SISTEMA NACIONAL DE PLANEAMIENTO ESTRATÉGICO (SINAPLAN) Y DIRECTIVAS DE CEPLAN. * METODOLOGÍA DE GESTIÓN POR RESULTADOS E INDICADORES DE DESEMPEÑO EN EL SECTOR PÚBLICO.",
+          "competencias": "PENSAMIENTO ANALÍTICO Y VISIÓN ESTRATÉGICA., CAPACIDAD DE PLANIFICACIÓN, ORGANIZACIÓN Y ORIENTACIÓN AL LOGRO. COMUNICACIÓN ASERTIVA. TRABAJO EN EQUIPO Y ORIENTACIÓN AL SERVICIO PÚBLICO."
+        }
+      }
     },
     {
       "index": 6,
@@ -626,7 +930,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
       "source_page": 3,
       "salary": 2800,
-      "detail": null
+      "detail": {
+        "external_id": "816439",
+        "title": "ESPECIALISTA EN NUTRICIÓN",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "02 AÑOS",
+        "academic_profile": "TÍTULO PROFESIONAL EN NUTRICIÓN Y DIETÉTICA O NUTRICIÓN HUMANA",
+        "specialization": "CURSO EN INOCUIDAD ALIMENTARIA; CURSO EN NUTRICIÓN CLÍNICA",
+        "knowledge": "NTS N° 173-MINSA/2021/DIGESA, NORMA SANITARIA PARA SERVICIOS DE ALIMENTACIÓN COLECTIVA. PRINCIPIOS DE BUENAS PRÁCTICAS DE MANUFACTURA (BPM) Y HACCP.",
+        "competencies": "CAPACIDAD DE PLANIFICACIÓN Y ORGANIZACIÓN, TRABAJO EN EQUIPO Y LIDERAZGO OPERATIVO, COMUNICACIÓN ASERTIVA Y VOCACIÓN SOCIAL.",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "02 AÑOS",
+          "formacion_academica_-_perfil": "TÍTULO PROFESIONAL EN NUTRICIÓN Y DIETÉTICA O NUTRICIÓN HUMANA",
+          "especializacion": "CURSO EN INOCUIDAD ALIMENTARIA; CURSO EN NUTRICIÓN CLÍNICA",
+          "conocimiento": "NTS N° 173-MINSA/2021/DIGESA, NORMA SANITARIA PARA SERVICIOS DE ALIMENTACIÓN COLECTIVA. PRINCIPIOS DE BUENAS PRÁCTICAS DE MANUFACTURA (BPM) Y HACCP.",
+          "competencias": "CAPACIDAD DE PLANIFICACIÓN Y ORGANIZACIÓN, TRABAJO EN EQUIPO Y LIDERAZGO OPERATIVO, COMUNICACIÓN ASERTIVA Y VOCACIÓN SOCIAL."
+        }
+      }
     },
     {
       "index": 7,
@@ -641,7 +964,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
       "source_page": 3,
       "salary": 3364.19,
-      "detail": null
+      "detail": {
+        "external_id": "816432",
+        "title": "ESPECIALISTA EN ESTADÍSTICA",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "03 AÑOS",
+        "academic_profile": "TÍTULO PROFESIONAL DE ECONOMISTA, ESTADÍSTICO, INGENIERO DE SISTEMAS",
+        "specialization": "STATA, Y/O R, R-ESTUDIO, Y/O PYTHON; INVESTIGACIÓN ECONÓMICA Y SOCIAL; EXCEL Y/O TABLAS DINÁMICAS Y/O DASHBOARD",
+        "knowledge": "CONOCIMIENTO DEL SISTEMA NACIONAL DE PRESUPUESTO, EN EL MARCO DEL DECRETO LEGISLATIVO N° 1440 Y SU NORMATIVA VIGENTE. CONOCIMIENTO DE LA NORMATIVA TÉCNICA APLICABLE A ESTUDIOS ECONÓMICOS Y SOCIALES A NIVEL DEL SISTEMA UNIVERSITARIO, SEGÚN CORRESPONDA.",
+        "competencies": "TRABAJO EN EQUIPO, TRABAJO BAJO PRESIÓN, PLANIFICACIÓN ORGANIZACIÓN, RESPONSABILIDAD.",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "03 AÑOS",
+          "formacion_academica_-_perfil": "TÍTULO PROFESIONAL DE ECONOMISTA, ESTADÍSTICO, INGENIERO DE SISTEMAS",
+          "especializacion": "STATA, Y/O R, R-ESTUDIO, Y/O PYTHON; INVESTIGACIÓN ECONÓMICA Y SOCIAL; EXCEL Y/O TABLAS DINÁMICAS Y/O DASHBOARD",
+          "conocimiento": "CONOCIMIENTO DEL SISTEMA NACIONAL DE PRESUPUESTO, EN EL MARCO DEL DECRETO LEGISLATIVO N° 1440 Y SU NORMATIVA VIGENTE. CONOCIMIENTO DE LA NORMATIVA TÉCNICA APLICABLE A ESTUDIOS ECONÓMICOS Y SOCIALES A NIVEL DEL SISTEMA UNIVERSITARIO, SEGÚN CORRESPONDA.",
+          "competencias": "TRABAJO EN EQUIPO, TRABAJO BAJO PRESIÓN, PLANIFICACIÓN ORGANIZACIÓN, RESPONSABILIDAD."
+        }
+      }
     },
     {
       "index": 8,
@@ -656,7 +998,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
       "source_page": 3,
       "salary": 3000,
-      "detail": null
+      "detail": {
+        "external_id": "816430",
+        "title": "ESPECIALISTA EN DISEÑO GRAFICO",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "02 AÑOS",
+        "academic_profile": "TÍTULO PROFESIONAL UNIVERSITARIO EN DISEÑO GRÁFICO, CIENCIAS DE LA COMUNICACIÓN, ARTE Y DISEÑO, PUBLICIDAD.",
+        "specialization": "CURSO Y/O CAPACITACIÓN DE ESPECIALIZACIÓN EN DISEÑO GRÁFICO O PHOTOSHOP O ILUSTRATOR.",
+        "knowledge": "CONOCIMIENTOS EN SOFTWARE DE DISEÑO Y MAQUETACIÓN GRÁFICA (ADOBE SUITE: PHOTOSHOP, ILUSTRATOR, INDESIGN), EDICIÓN VECTORIAL, PREPRENTA DIGITAL, TEORÍA DEL COLOR, TIPOGRAFÍA CORPORATIVA Y PRODUCCIÓN IMPRENTA.",
+        "competencies": "CREATIVIDAD E INNOVACIÓN, ORIENTACIÓN A RESULTADOS, TRABAJO EN EQUIPO, CAPACIDAD DE ORGANIZACIÓN Y PLANIFICACIÓN, ATENCIÓN AL DETALLE Y COMPROMISO INSTITUCIONAL.",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "02 AÑOS",
+          "formacion_academica_-_perfil": "TÍTULO PROFESIONAL UNIVERSITARIO EN DISEÑO GRÁFICO, CIENCIAS DE LA COMUNICACIÓN, ARTE Y DISEÑO, PUBLICIDAD.",
+          "especializacion": "CURSO Y/O CAPACITACIÓN DE ESPECIALIZACIÓN EN DISEÑO GRÁFICO O PHOTOSHOP O ILUSTRATOR.",
+          "conocimiento": "CONOCIMIENTOS EN SOFTWARE DE DISEÑO Y MAQUETACIÓN GRÁFICA (ADOBE SUITE: PHOTOSHOP, ILUSTRATOR, INDESIGN), EDICIÓN VECTORIAL, PREPRENTA DIGITAL, TEORÍA DEL COLOR, TIPOGRAFÍA CORPORATIVA Y PRODUCCIÓN IMPRENTA.",
+          "competencias": "CREATIVIDAD E INNOVACIÓN, ORIENTACIÓN A RESULTADOS, TRABAJO EN EQUIPO, CAPACIDAD DE ORGANIZACIÓN Y PLANIFICACIÓN, ATENCIÓN AL DETALLE Y COMPROMISO INSTITUCIONAL."
+        }
+      }
     },
     {
       "index": 9,
@@ -671,7 +1032,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
       "source_page": 3,
       "salary": 3864.19,
-      "detail": null
+      "detail": {
+        "external_id": "816434",
+        "title": "ESPECIALISTA EN CONTROL GUBERNAMENTAL",
+        "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
+        "experience": "04 AÑOS",
+        "academic_profile": "TÍTULO UNIVERSITARIO EN LAS CARRERAS PROFESIONALES DE CONTABILIDAD, ADMINISTRACIÓN Y ECONOMÍA",
+        "specialization": "CURSO O PROGRAMA DE ESPECIALIZACIÓN EN CONTROL GUBERNAMENTAL, AUDITORÍA GUBERNAMENTAL O GESTIÓN PÚBLICA MÍNIMO 90 HORAS LECTIVAS ACUMULADAS O PROGRAMA NO MENOR A 80 HORAS); CURSO EN CONTRATACIONES DEL ESTADO O INVERSIÓN PÚBLICA (MÍNIMO 24 HORAS LECTIVAS).",
+        "knowledge": "CONOCIMIENTO DE LAS NORMAS DE CONTROL GUBERNAMENTAL VIGENTES, LEY DE CONTRATACIONES DEL ESTADO Y SU REGLAMENTO, SISTEMA INTEGRADO DE ADMINISTRACIÓN FINANCIERA (SIAF-RP), SIGA, SEACE, GESTIÓN PÚBLICA Y ADMINISTRACIÓN UNIVERSITARIA (LEY N° 30220 -LEY UNIVERSITARIA).",
+        "competencies": "ANÁLISIS Y SÍNTESIS: CAPACIDAD PARA PROCESAR INFORMACIÓN COMPLEJA, DETECTAR DESVIACIONES Y ESTRUCTURAR INFORMES DAROS. PENSAMIENTO CRÍTICO Y OBJETIVIDAD: EVALUACIÓN IMPARCIAL BASADA EN EVIDENCIAS DOCUMENTALES. INTEGRIDAD Y COMPORTAMIENTO ÉTICO: ADHESIÓN ESTRICTA A LOS PRINCIPIOS DE RESERVA, INDEPENDENCIA Y TRANSPARENCIA DEL SISTEMA NACIONAL DE CONTROL. TRABAJO EN EQUIPO Y BAJO PRESIÓN: ORIENTACIÓN AL CUMPLIMIENTO DE LOS PLAZOS DEL PLAN ANUAL DE CONTROL (PAC).",
+        "application_url": "https://announcement.unsch.edu.pe/",
+        "application_text": "https://announcement.unsch.edu.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "04 AÑOS",
+          "formacion_academica_-_perfil": "TÍTULO UNIVERSITARIO EN LAS CARRERAS PROFESIONALES DE CONTABILIDAD, ADMINISTRACIÓN Y ECONOMÍA",
+          "especializacion": "CURSO O PROGRAMA DE ESPECIALIZACIÓN EN CONTROL GUBERNAMENTAL, AUDITORÍA GUBERNAMENTAL O GESTIÓN PÚBLICA MÍNIMO 90 HORAS LECTIVAS ACUMULADAS O PROGRAMA NO MENOR A 80 HORAS); CURSO EN CONTRATACIONES DEL ESTADO O INVERSIÓN PÚBLICA (MÍNIMO 24 HORAS LECTIVAS).",
+          "conocimiento": "CONOCIMIENTO DE LAS NORMAS DE CONTROL GUBERNAMENTAL VIGENTES, LEY DE CONTRATACIONES DEL ESTADO Y SU REGLAMENTO, SISTEMA INTEGRADO DE ADMINISTRACIÓN FINANCIERA (SIAF-RP), SIGA, SEACE, GESTIÓN PÚBLICA Y ADMINISTRACIÓN UNIVERSITARIA (LEY N° 30220 -LEY UNIVERSITARIA).",
+          "competencias": "ANÁLISIS Y SÍNTESIS: CAPACIDAD PARA PROCESAR INFORMACIÓN COMPLEJA, DETECTAR DESVIACIONES Y ESTRUCTURAR INFORMES DAROS. PENSAMIENTO CRÍTICO Y OBJETIVIDAD: EVALUACIÓN IMPARCIAL BASADA EN EVIDENCIAS DOCUMENTALES. INTEGRIDAD Y COMPORTAMIENTO ÉTICO: ADHESIÓN ESTRICTA A LOS PRINCIPIOS DE RESERVA, INDEPENDENCIA Y TRANSPARENCIA DEL SISTEMA NACIONAL DE CONTROL. TRABAJO EN EQUIPO Y BAJO PRESIÓN: ORIENTACIÓN AL CUMPLIMIENTO DE LOS PLAZOS DEL PLAN ANUAL DE CONTROL (PAC)."
+        }
+      }
     }
   ]
 }
