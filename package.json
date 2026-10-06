@@ -7,7 +7,8 @@
     "test:talento": "node src/test-talento.js",
     "inspect": "node src/inspect-talento.js",
     "extract:sample": "node src/extract-sample.js",
-    "inspect:detail": "node src/inspect-detail.js"
+    "inspect:detail": "node src/inspect-detail.js",
+    "collect:today": "node src/collect-today.js"
   },
   "repository": {
     "type": "git",
