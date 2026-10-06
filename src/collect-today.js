@@ -59,6 +59,59 @@ function parseSalary(value) {
   return Number.isFinite(result) ? result : null;
 }
 
+function toIsoDate(value) {
+  const match = clean(value).match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
+  if (!match) return null;
+
+  const [, day, month, year] = match;
+  return `${year}-${month}-${day}`;
+}
+
+function getDepartment(location) {
+  const value = clean(location);
+  if (!value) return null;
+
+  const [department] = value.split(" - ");
+  return clean(department) || null;
+}
+
+function buildLaravelPayload(result) {
+  const jobs = result.jobs
+    .filter((job) => job.detail?.external_id)
+    .map((job) => ({
+      source: "talento_peru",
+      external_id: String(job.detail.external_id),
+      title: clean(job.title),
+      entity: clean(job.entity),
+      location: clean(job.location),
+      department: getDepartment(job.location),
+      convocatoria: clean(job.convocatoria),
+      vacancies: Number.isFinite(job.vacancies) ? job.vacancies : null,
+      salary: Number.isFinite(job.salary) ? job.salary : null,
+      salary_currency: "PEN",
+      publication_start: toIsoDate(job.publication_start),
+      publication_end: toIsoDate(job.publication_end),
+      experience: clean(job.detail.experience) || null,
+      academic_profile: clean(job.detail.academic_profile) || null,
+      specialization: clean(job.detail.specialization) || null,
+      knowledge: clean(job.detail.knowledge) || null,
+      competencies: clean(job.detail.competencies) || null,
+      application_url: job.detail.application_url || null,
+      application_instructions: clean(job.detail.application_text) || null,
+      source_url: URL,
+    }));
+
+  return {
+    schema_version: 1,
+    source: "talento_peru",
+    collected_at: result.captured_at,
+    publication_date: toIsoDate(result.target_date),
+    discovered_count: result.total_today,
+    ready_count: jobs.length,
+    jobs,
+  };
+}
+
 function uniqueKey(job) {
   return [
     job.entity,
@@ -489,17 +542,27 @@ async function extractDetail(page) {
 
     fs.writeFileSync(outputFile, JSON.stringify(result, null, 2), "utf8");
 
+    const laravelPayload = buildLaravelPayload(result);
+    const laravelFile = path.join(OUT_DIR, "laravel-payload.json");
+
+    fs.writeFileSync(
+      laravelFile,
+      JSON.stringify(laravelPayload, null, 2),
+      "utf8"
+    );
+
     const errorFile = path.join(OUT_DIR, "today-error.json");
     if (fs.existsSync(errorFile)) {
       fs.unlinkSync(errorFile);
     }
 
     console.log("");
-    console.log("Resultado generado:");
-    console.log(outputFile);
+    console.log("Resultados generados:");
+    console.log("- Debug:", outputFile);
+    console.log("- Laravel:", laravelFile);
     console.log("");
     console.log(
-      `Se encontraron ${result.total_today} ofertas del ${targetDate} y se extrajeron ${detailJobs.length} detalles.`
+      `Se encontraron ${result.total_today} ofertas del ${targetDate}, se extrajeron ${detailJobs.length} detalles y ${laravelPayload.ready_count} quedaron listas para Laravel.`
     );
   } catch (error) {
     console.error("ERROR:", error);
