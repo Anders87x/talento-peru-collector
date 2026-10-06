@@ -8,7 +8,8 @@
     "inspect": "node src/inspect-talento.js",
     "extract:sample": "node src/extract-sample.js",
     "inspect:detail": "node src/inspect-detail.js",
-    "collect:today": "node src/collect-today.js"
+    "collect:today": "node src/collect-today.js",
+    "payload:build": "node src/build-laravel-payload.js"
   },
   "repository": {
     "type": "git",
