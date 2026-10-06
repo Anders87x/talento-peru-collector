@@ -56,3 +56,54 @@ git push origin feature/talento-extraction
 Estos archivos se usarán únicamente para identificar selectores, formularios, tablas y posibles endpoints internos antes de construir el extractor definitivo.
 
 > No subir cookies, contraseñas, tokens ni archivos de sesión.
+
+
+## Siguiente fase: extraer una muestra real
+
+Ya validado el acceso local, ejecuta:
+
+```bash
+git pull origin feature/talento-extraction
+npm install
+npm run extract:sample
+```
+
+Esto genera:
+
+```text
+docs/results/list-sample.json
+docs/results/list-sample.png
+```
+
+El JSON contiene las primeras 10 convocatorias visibles con título, entidad, ubicación, número de convocatoria, vacantes, remuneración y fechas.
+
+## Diagnóstico del detalle de una convocatoria
+
+Después ejecuta:
+
+```bash
+npm run inspect:detail
+```
+
+El script abre la primera convocatoria y pulsa `¡Ver más!`. Luego guarda:
+
+```text
+docs/debug/detail/
+├── metadata.json
+├── body.txt
+├── page.html
+├── links.json
+├── forms.json
+├── network.json
+└── detail.png
+```
+
+Sube los resultados a esta rama:
+
+```bash
+git add docs/results docs/debug/detail
+git commit -m "Add Talento Peru extraction samples"
+git push origin feature/talento-extraction
+```
+
+No subir cookies, tokens, contraseñas ni archivos de sesión.
