@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-06T15:38:43.162Z",
+  "captured_at": "2026-10-06T15:42:21.258Z",
   "target_date": "06/10/2026",
   "message": "page.evaluate: ReferenceError: _perfil is not defined\n    at eval (eval at evaluate (:311:30), <anonymous>:61:43)\n    at UtilityScript.evaluate (<anonymous>:313:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
   "stack": "page.evaluate: ReferenceError: _perfil is not defined\n    at eval (eval at evaluate (:311:30), <anonymous>:61:43)\n    at UtilityScript.evaluate (<anonymous>:313:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at extractDetail (D:\\NodeJs_Dev\\talento-peru-collector\\src\\collect-today.js:212:15)\n    at D:\\NodeJs_Dev\\talento-peru-collector\\src\\collect-today.js:457:28"
