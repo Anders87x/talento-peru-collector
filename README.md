@@ -107,3 +107,41 @@ git push origin feature/talento-extraction
 ```
 
 No subir cookies, tokens, contraseñas ni archivos de sesión.
+
+
+## Recolectar únicamente las ofertas publicadas hoy
+
+El recolector puede limitarse por la fecha de inicio de publicación de Talento Perú. Por defecto usa la fecha actual de Lima:
+
+```bash
+git pull origin feature/talento-extraction
+npm run collect:today
+```
+
+Para pruebas, por seguridad solo abre el detalle de las primeras 10 ofertas encontradas. El listado sí recorre las páginas necesarias hasta detectar que las fechas ya son anteriores.
+
+Resultado:
+
+```text
+docs/results/today-jobs.json
+```
+
+Puedes indicar una fecha manual:
+
+```bash
+npm run collect:today -- --date=06/10/2026
+```
+
+Puedes cambiar cuántos detalles abrir:
+
+```bash
+npm run collect:today -- --limit=20
+```
+
+Y combinar ambos:
+
+```bash
+npm run collect:today -- --date=06/10/2026 --limit=20
+```
+
+El JSON incluye la información del listado y, para los detalles procesados, experiencia, formación académica, especialización, conocimientos, competencias, URL de postulación y el identificador interno de Talento Perú.
