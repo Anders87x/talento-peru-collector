@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test:talento": "node src/test-talento.js",
-    "inspect": "node src/inspect-talento.js"
+    "inspect": "node src/inspect-talento.js",
+    "extract:sample": "node src/extract-sample.js",
+    "inspect:detail": "node src/inspect-detail.js"
   },
   "repository": {
     "type": "git",
