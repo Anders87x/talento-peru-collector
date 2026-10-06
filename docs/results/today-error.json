@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-06T15:30:09.026Z",
+  "captured_at": "2026-10-06T15:38:43.162Z",
   "target_date": "06/10/2026",
-  "message": "No se pudo posicionar en la página 1. Actual: 26",
-  "stack": "Error: No se pudo posicionar en la página 1. Actual: 26\n    at ensureListPage (D:\\NodeJs_Dev\\talento-peru-collector\\src\\collect-today.js:210:11)\n    at async D:\\NodeJs_Dev\\talento-peru-collector\\src\\collect-today.js:419:7"
+  "message": "page.evaluate: ReferenceError: _perfil is not defined\n    at eval (eval at evaluate (:311:30), <anonymous>:61:43)\n    at UtilityScript.evaluate (<anonymous>:313:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+  "stack": "page.evaluate: ReferenceError: _perfil is not defined\n    at eval (eval at evaluate (:311:30), <anonymous>:61:43)\n    at UtilityScript.evaluate (<anonymous>:313:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at extractDetail (D:\\NodeJs_Dev\\talento-peru-collector\\src\\collect-today.js:212:15)\n    at D:\\NodeJs_Dev\\talento-peru-collector\\src\\collect-today.js:457:28"
 }
