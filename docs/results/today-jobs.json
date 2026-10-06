@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-06T15:41:54.625Z",
+  "captured_at": "2026-10-06T15:44:24.247Z",
   "source": "talento_peru",
   "target_date": "06/10/2026",
   "discovered_pages": [
@@ -29,27 +29,9 @@
       "dates": [
         "06/10/2026"
       ]
-    },
-    {
-      "page": 4,
-      "total_pages": 393,
-      "total_cards": 10,
-      "matching_date": 10,
-      "dates": [
-        "06/10/2026"
-      ]
-    },
-    {
-      "page": 5,
-      "total_pages": 393,
-      "total_cards": 10,
-      "matching_date": 10,
-      "dates": [
-        "06/10/2026"
-      ]
     }
   ],
-  "total_today": 50,
+  "total_today": 30,
   "jobs": [
     {
       "index": 0,
@@ -64,7 +46,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
       "source_page": 1,
       "salary": 2900,
-      "detail": null
+      "detail": {
+        "external_id": "816681",
+        "title": "AUXILIAR JUDICIAL",
+        "entity": "UNIDAD EJECUTORA DE LA CORTE SUPERIOR DE JUSTICIA DEL CALLAO",
+        "experience": "• EXPERIENCIA LABORAL GENERAL DE UN (01) AÑO . • EXPERIENCIA ESPECÍFICA DE UN (01) AÑO EN LABORES JURISDICCIONALES, LEGALES O JUDICIALES O ADMINISTRATIVO EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+        "academic_profile": "• ESTUDIANTE DE DERECHO VIII CICLO EN ADELANTE.",
+        "specialization": "• CURSOS Y/O CAPACITACIONES EN TEMAS RELACIONADOS EN VIOLENCIA CONTRA LA MUJER E INTEGRANTES DEL GRUPO FAMILIAR.",
+        "knowledge": "• CURSOS Y/O CAPACITACIONES EN TEMAS RELACIONADOS EN VIOLENCIA CONTRA LA MUJER E INTEGRANTES DEL GRUPO FAMILIAR.",
+        "competencies": "• ADAPTABILIDAD • DINAMISMO • ATENCIÓN • COMUNICACIÓN ORAL",
+        "application_url": "https://aplicativo.pj.gob.pe/psep/wfrmConvocatoriasV.aspx?TCon=C",
+        "application_text": "https://aplicativo.pj.gob.pe/psep/wfrmConvocatoriasV.aspx?TCon=C",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "• EXPERIENCIA LABORAL GENERAL DE UN (01) AÑO . • EXPERIENCIA ESPECÍFICA DE UN (01) AÑO EN LABORES JURISDICCIONALES, LEGALES O JUDICIALES O ADMINISTRATIVO EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+          "formacion_academica_-_perfil": "• ESTUDIANTE DE DERECHO VIII CICLO EN ADELANTE.",
+          "especializacion": "• CURSOS Y/O CAPACITACIONES EN TEMAS RELACIONADOS EN VIOLENCIA CONTRA LA MUJER E INTEGRANTES DEL GRUPO FAMILIAR.",
+          "conocimiento": "• CURSOS Y/O CAPACITACIONES EN TEMAS RELACIONADOS EN VIOLENCIA CONTRA LA MUJER E INTEGRANTES DEL GRUPO FAMILIAR.",
+          "competencias": "• ADAPTABILIDAD • DINAMISMO • ATENCIÓN • COMUNICACIÓN ORAL"
+        }
+      }
     },
     {
       "index": 1,
@@ -79,7 +80,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
       "source_page": 1,
       "salary": 3850,
-      "detail": null
+      "detail": {
+        "external_id": "816680",
+        "title": "ESPECIALISTA JUDICIAL DE JUZGADO",
+        "entity": "UNIDAD EJECUTORA DE LA CORTE SUPERIOR DE JUSTICIA DEL CALLAO",
+        "experience": "• EXPERIENCIA LABORAL GENERAL NO MENOR DE DOS (02) AÑOS. • EXPERIENCIA ESPECÍFICA DE UN (01) AÑO EN LA MATERIA DE DERECHO DE FAMILIA CIVIL Y/O FAMILIA TUTELAR EN EL SECTOR PÚBLICO Y/O PRIVADO",
+        "academic_profile": "• TÍTULO PROFESIONAL DE ABOGADO(A), COLEGIADO(A) Y HABILITADO(A).",
+        "specialization": "• ESTUDIOS CONCLUIDOS DE POSTGRADO EN DERECHO FAMILIA, CIVIL, PROCESAL CIVIL Y/O CONSTITUCIONAL (DESEABLE). • PROGRAMAS DE ESPECIALIZACIÓN, DIPLOMADOS, CURSOS Y/O CAPACITACIONES EN TEMAS RELACIONADOS EN VIOLENCIA CONTRA LAS MUJERES E INTEGRANTES DEL GRUPO FAMILIAR (OBLIGATORIO).",
+        "knowledge": "• CONOCIMIENTO DEL CÓDIGO PROCESAL CIVIL, DERECHO DE FAMILIA, LEY N°30364 Y SU REGLAMENTO, CONVENCIONES INTERNACIONALES RELACIONADAS A LA LUCHA DE LA VIOLENCIA CONTRA LA MUJER Y LOS INTEGRANTES DEL GRUPO DE FAMILIAR. • CONOCIMIENTO EN REDACCIÓN DE RESOLUCIONES JUDICIALES. • OFIMÁTICA",
+        "competencies": "• REDACCIÓN. • RAZONAMIENTO LÓGICO. • COMPRENSIÓN LECTORA. • DINAMISMO.",
+        "application_url": "https://aplicativo.pj.gob.pe/psep/wfrmConvocatoriasV.aspx?TCon=C",
+        "application_text": "https://aplicativo.pj.gob.pe/psep/wfrmConvocatoriasV.aspx?TCon=C",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "• EXPERIENCIA LABORAL GENERAL NO MENOR DE DOS (02) AÑOS. • EXPERIENCIA ESPECÍFICA DE UN (01) AÑO EN LA MATERIA DE DERECHO DE FAMILIA CIVIL Y/O FAMILIA TUTELAR EN EL SECTOR PÚBLICO Y/O PRIVADO",
+          "formacion_academica_-_perfil": "• TÍTULO PROFESIONAL DE ABOGADO(A), COLEGIADO(A) Y HABILITADO(A).",
+          "especializacion": "• ESTUDIOS CONCLUIDOS DE POSTGRADO EN DERECHO FAMILIA, CIVIL, PROCESAL CIVIL Y/O CONSTITUCIONAL (DESEABLE). • PROGRAMAS DE ESPECIALIZACIÓN, DIPLOMADOS, CURSOS Y/O CAPACITACIONES EN TEMAS RELACIONADOS EN VIOLENCIA CONTRA LAS MUJERES E INTEGRANTES DEL GRUPO FAMILIAR (OBLIGATORIO).",
+          "conocimiento": "• CONOCIMIENTO DEL CÓDIGO PROCESAL CIVIL, DERECHO DE FAMILIA, LEY N°30364 Y SU REGLAMENTO, CONVENCIONES INTERNACIONALES RELACIONADAS A LA LUCHA DE LA VIOLENCIA CONTRA LA MUJER Y LOS INTEGRANTES DEL GRUPO DE FAMILIAR. • CONOCIMIENTO EN REDACCIÓN DE RESOLUCIONES JUDICIALES. • OFIMÁTICA",
+          "competencias": "• REDACCIÓN. • RAZONAMIENTO LÓGICO. • COMPRENSIÓN LECTORA. • DINAMISMO."
+        }
+      }
     },
     {
       "index": 2,
@@ -94,7 +114,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
       "source_page": 1,
       "salary": 1444,
-      "detail": null
+      "detail": {
+        "external_id": "816578",
+        "title": "ABOGADO I",
+        "entity": "DIRECCION REGIONAL DE SALUD ANCASH",
+        "experience": "03 AÑOS EN EL SECTOR PÚBLICO O PRIVADO",
+        "academic_profile": "TITULO ABOGADO",
+        "specialization": "PROGRAMA DE ESPECIALIZACION Y/O DIPLOMADOS CONCLUIDOS EN SALUD PUBLICA O AFINES A LAS FUNCIONES DEL CARGO EN EL ORGANO A DESEMPEÑAR.",
+        "knowledge": "DERECHO ADMINISTRATIVO Y PROCEDIMIENTO ADMINISTRATIVO. DERECHO LABORAL Y RÉGIMEN DEL SERVICIO CIVIL. DERECHO CIVIL Y DERECHO PROCESAL CIVIL. CONTRATACIONES DEL ESTADO. GESTIÓN PÚBLICA Y ORGANIZACIÓN DEL ESTADO. ELABORACIÓN DE INFORMES Y OPINIONES LEGALES. ASESORAMIENTO JURÍDICO Y EMISIÓN DE PRONUNCIAMIENTOS LEGALES. NORMATIVA RELACIONADA CON EL SECTOR O ENTIDAD DONDE SE DESEMPEÑA EL PUESTO.",
+        "competencies": "ANÁLISIS JURÍDICO Y CAPACIDAD DE INTERPRETACIÓN DE NORMAS. CAPACIDAD DE ANÁLISIS Y SOLUCIÓN DE PROBLEMAS. COMUNICACIÓN EFECTIVA, ORAL Y ESCRITA. REDACCIÓN DE INFORMES, OPINIONES Y DOCUMENTOS LEGALES. CAPACIDAD DE NEGOCIACIÓN Y MANEJO DE CONFLICTOS. ORGANIZACIÓN Y PLANIFICACIÓN DEL TRABAJO. ORIENTACIÓN A RESULTADOS. TRABAJO EN EQUIPO Y COORDINACIÓN INSTITUCIONAL. CAPACIDAD PARA TRABAJAR BAJO PRESIÓN Y CUMPLIR PLAZOS. PENSAMIENTO CRÍTICO Y CRITERIO JURÍDICO. PROACTIVIDAD E INICIATIVA. CONFIDENCIALIDAD Y MANEJO RESPONSABLE DE INFORMACIÓN. ADAPTABILIDAD Y DISPOSICIÓN PARA EL APRENDIZAJE CONTINUO. COMPROMISO CON LA ÉTICA, INTEGRIDAD Y SERVICIO AL CIUDADANO.",
+        "application_url": "https://diresancash.gob.pe/",
+        "application_text": "https://diresancash.gob.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "03 AÑOS EN EL SECTOR PÚBLICO O PRIVADO",
+          "formacion_academica_-_perfil": "TITULO ABOGADO",
+          "especializacion": "PROGRAMA DE ESPECIALIZACION Y/O DIPLOMADOS CONCLUIDOS EN SALUD PUBLICA O AFINES A LAS FUNCIONES DEL CARGO EN EL ORGANO A DESEMPEÑAR.",
+          "conocimiento": "DERECHO ADMINISTRATIVO Y PROCEDIMIENTO ADMINISTRATIVO. DERECHO LABORAL Y RÉGIMEN DEL SERVICIO CIVIL. DERECHO CIVIL Y DERECHO PROCESAL CIVIL. CONTRATACIONES DEL ESTADO. GESTIÓN PÚBLICA Y ORGANIZACIÓN DEL ESTADO. ELABORACIÓN DE INFORMES Y OPINIONES LEGALES. ASESORAMIENTO JURÍDICO Y EMISIÓN DE PRONUNCIAMIENTOS LEGALES. NORMATIVA RELACIONADA CON EL SECTOR O ENTIDAD DONDE SE DESEMPEÑA EL PUESTO.",
+          "competencias": "ANÁLISIS JURÍDICO Y CAPACIDAD DE INTERPRETACIÓN DE NORMAS. CAPACIDAD DE ANÁLISIS Y SOLUCIÓN DE PROBLEMAS. COMUNICACIÓN EFECTIVA, ORAL Y ESCRITA. REDACCIÓN DE INFORMES, OPINIONES Y DOCUMENTOS LEGALES. CAPACIDAD DE NEGOCIACIÓN Y MANEJO DE CONFLICTOS. ORGANIZACIÓN Y PLANIFICACIÓN DEL TRABAJO. ORIENTACIÓN A RESULTADOS. TRABAJO EN EQUIPO Y COORDINACIÓN INSTITUCIONAL. CAPACIDAD PARA TRABAJAR BAJO PRESIÓN Y CUMPLIR PLAZOS. PENSAMIENTO CRÍTICO Y CRITERIO JURÍDICO. PROACTIVIDAD E INICIATIVA. CONFIDENCIALIDAD Y MANEJO RESPONSABLE DE INFORMACIÓN. ADAPTABILIDAD Y DISPOSICIÓN PARA EL APRENDIZAJE CONTINUO. COMPROMISO CON LA ÉTICA, INTEGRIDAD Y SERVICIO AL CIUDADANO."
+        }
+      }
     },
     {
       "index": 3,
@@ -109,7 +148,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
       "source_page": 1,
       "salary": 2650,
-      "detail": null
+      "detail": {
+        "external_id": "816461",
+        "title": "ASISTENTES ADMINISTRATIVOS ( TECNICO EN SECRETARIADO , COMPUTACION E INFORMATICA - TECNICO",
+        "entity": "MICRO REGION ALTO HUALLAGA",
+        "experience": "2 AÑOS",
+        "academic_profile": "TECNICOS EN SECRETARIADO EJECUTIVO, CONTABILIDAD, ADMINISTRACION Y /O COMPUTACION O INFORMATIVA Y AGROPECUARIO",
+        "specialization": "NO APLICA",
+        "knowledge": "CONOCIMIENTO Y MANEJO DE LOS SISTEMAS ADMINTRATVIS DEL ESTADO, MANEJO DE GS TRAMITE, TEMAS DEL SECTOR AGRARIO, TEMAS DE RALCIONADO A REGIMENS LABORALES",
+        "competencies": "RECEPCIONAR, ALMACENAR, ENTREGAR O INVENTARIAR Y EQUIPOS, SOLICTAR SU REPOSICION. Y OTROS",
+        "application_url": "https://www.gob.pe/regionsanmartin-gtah",
+        "application_text": "https://www.gob.pe/regionsanmartin-gtah",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "2 AÑOS",
+          "formacion_academica_-_perfil": "TECNICOS EN SECRETARIADO EJECUTIVO, CONTABILIDAD, ADMINISTRACION Y /O COMPUTACION O INFORMATIVA Y AGROPECUARIO",
+          "especializacion": "NO APLICA",
+          "conocimiento": "CONOCIMIENTO Y MANEJO DE LOS SISTEMAS ADMINTRATVIS DEL ESTADO, MANEJO DE GS TRAMITE, TEMAS DEL SECTOR AGRARIO, TEMAS DE RALCIONADO A REGIMENS LABORALES",
+          "competencias": "RECEPCIONAR, ALMACENAR, ENTREGAR O INVENTARIAR Y EQUIPOS, SOLICTAR SU REPOSICION. Y OTROS"
+        }
+      }
     },
     {
       "index": 4,
@@ -124,7 +182,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
       "source_page": 1,
       "salary": 2722,
-      "detail": null
+      "detail": {
+        "external_id": "816466",
+        "title": "TRABAJADOR DE SERVICIOS GENERALES",
+        "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+        "experience": "EXPERIENCIA LABORAL MÍNIMA DE DOS (02) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO",
+        "academic_profile": "SECUNDARIA COMPLETA",
+        "specialization": "NO APLICA",
+        "knowledge": "MANTENIMIENTO DE REDES DE AGUA POTABLE Y DESAGÜE; ALBAÑILERÍA, RESANE, TARRAJEO, ENCHAPES, REPARACIÓN DE PISOS, PAREDES, TECHOS Y ACABADOS; MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE INFRAESTRUCTURA Y ELEMENTOS NO ESTRUCTURALES; USO ADECUADO DE HERRAMIENTAS MANUALES Y EQUIPOS BÁSICOS PARA TRABAJOS DE MANTENIMIENTO; NORMAS BÁSICAS DE SEGURIDAD Y SALUD EN EL TRABAJO APLICABLES A LABORES DE MANTENIMIENTO E INFRAESTRUCTURA; IDENTIFICACIÓN Y ATENCIÓN DE INCIDENCIAS RELACIONADAS CON DETERIOROS DE INFRAESTRUCTURA FÍSICA.",
+        "competencies": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÓN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA.",
+        "application_url": "https://hospitaltarapoto.gob.pe/",
+        "application_text": "https://hospitaltarapoto.gob.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "EXPERIENCIA LABORAL MÍNIMA DE DOS (02) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO",
+          "formacion_academica_-_perfil": "SECUNDARIA COMPLETA",
+          "especializacion": "NO APLICA",
+          "conocimiento": "MANTENIMIENTO DE REDES DE AGUA POTABLE Y DESAGÜE; ALBAÑILERÍA, RESANE, TARRAJEO, ENCHAPES, REPARACIÓN DE PISOS, PAREDES, TECHOS Y ACABADOS; MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE INFRAESTRUCTURA Y ELEMENTOS NO ESTRUCTURALES; USO ADECUADO DE HERRAMIENTAS MANUALES Y EQUIPOS BÁSICOS PARA TRABAJOS DE MANTENIMIENTO; NORMAS BÁSICAS DE SEGURIDAD Y SALUD EN EL TRABAJO APLICABLES A LABORES DE MANTENIMIENTO E INFRAESTRUCTURA; IDENTIFICACIÓN Y ATENCIÓN DE INCIDENCIAS RELACIONADAS CON DETERIOROS DE INFRAESTRUCTURA FÍSICA.",
+          "competencias": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÓN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA."
+        }
+      }
     },
     {
       "index": 5,
@@ -139,7 +216,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
       "source_page": 1,
       "salary": 9786.4,
-      "detail": null
+      "detail": {
+        "external_id": "816475",
+        "title": "MÉDICO ESPECIALISTA",
+        "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+        "experience": "EXPERIENCIA LABORAL MÍNIMA DE TRES (03) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+        "academic_profile": "MÉDICO CIRUJANO",
+        "specialization": "ESPECIALISTA EN GINECOLOGÍA Y OBSTETRICIA",
+        "knowledge": "MANEJO DE URGENCIAS Y EMERGENCIAS; ORIENTACIÓN Y CONSEJERÍA FAMILIAR; MEDIDAS DE BIOSEGURIDAD; ENTREVISTA CLÍNICA CENTRADA EN EL PACIENTE; MANEJO DE PATOLOGÍAS FRECUENTES; MODELO DE CUIDADO INTEGRAL DE SALUD; GUÍAS DE PRÁCTICA CLÍNICA DE LAS PATOLOGÍAS DEL MINSA MÁS FRECUENTES.",
+        "competencies": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÓN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA; PROACTIVIDAD.",
+        "application_url": "https://hospitaltarapoto.gob.pe/",
+        "application_text": "https://hospitaltarapoto.gob.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "EXPERIENCIA LABORAL MÍNIMA DE TRES (03) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+          "formacion_academica_-_perfil": "MÉDICO CIRUJANO",
+          "especializacion": "ESPECIALISTA EN GINECOLOGÍA Y OBSTETRICIA",
+          "conocimiento": "MANEJO DE URGENCIAS Y EMERGENCIAS; ORIENTACIÓN Y CONSEJERÍA FAMILIAR; MEDIDAS DE BIOSEGURIDAD; ENTREVISTA CLÍNICA CENTRADA EN EL PACIENTE; MANEJO DE PATOLOGÍAS FRECUENTES; MODELO DE CUIDADO INTEGRAL DE SALUD; GUÍAS DE PRÁCTICA CLÍNICA DE LAS PATOLOGÍAS DEL MINSA MÁS FRECUENTES.",
+          "competencias": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÓN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA; PROACTIVIDAD."
+        }
+      }
     },
     {
       "index": 6,
@@ -154,7 +250,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
       "source_page": 1,
       "salary": 6666.4,
-      "detail": null
+      "detail": {
+        "external_id": "816471",
+        "title": "MÉDICO",
+        "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+        "experience": "EXPERIENCIA LABORAL MÍNIMA DE TRES (03) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+        "academic_profile": "MÉDICO CIRUJANO",
+        "specialization": "NO APLICA",
+        "knowledge": "EVALUACIÓN CLÍNICA DE PACIENTES CON PATOLOGÍA NEUROQUIRÚRGICA; CAPACIDAD PARA INTERVENIR QUIRÚRGICAMENTE A PACIENTES CON DAÑO EN EL SISTEMA NERVIOSO CENTRAL; CONTROL DE DAÑOS EN PACIENTES CON LESIONES DEL SISTEMA NERVIOSO CENTRAL; CAPACITACIÓN EN REHABILITACIÓN DE PACIENTES CON SECUELAS DE DAÑOS EN CEREBRO Y MÉDULA ESPINAL; CAPACIDAD DE COMUNICACIÓN EMPÁTICA CON PACIENTES, FAMILIARES Y PERSONAL DE SALUD.",
+        "competencies": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÓN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA.",
+        "application_url": "https://hospitaltarapoto.gob.pe/",
+        "application_text": "https://hospitaltarapoto.gob.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "EXPERIENCIA LABORAL MÍNIMA DE TRES (03) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+          "formacion_academica_-_perfil": "MÉDICO CIRUJANO",
+          "especializacion": "NO APLICA",
+          "conocimiento": "EVALUACIÓN CLÍNICA DE PACIENTES CON PATOLOGÍA NEUROQUIRÚRGICA; CAPACIDAD PARA INTERVENIR QUIRÚRGICAMENTE A PACIENTES CON DAÑO EN EL SISTEMA NERVIOSO CENTRAL; CONTROL DE DAÑOS EN PACIENTES CON LESIONES DEL SISTEMA NERVIOSO CENTRAL; CAPACITACIÓN EN REHABILITACIÓN DE PACIENTES CON SECUELAS DE DAÑOS EN CEREBRO Y MÉDULA ESPINAL; CAPACIDAD DE COMUNICACIÓN EMPÁTICA CON PACIENTES, FAMILIARES Y PERSONAL DE SALUD.",
+          "competencias": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÓN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA."
+        }
+      }
     },
     {
       "index": 7,
@@ -169,7 +284,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
       "source_page": 1,
       "salary": 7914.4,
-      "detail": null
+      "detail": {
+        "external_id": "816487",
+        "title": "MÉDICO",
+        "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+        "experience": "EXPERIENCIA LABORAL MÍNIMA DE TRES (03) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+        "academic_profile": "MÉDICO CIRUJANO",
+        "specialization": "NO APLICA",
+        "knowledge": "GUÍA DE PROCESOS Y PROCEDIMIENTOS DE ATENCIÓN AL DONANTE; NORMAS LEGALES Y TÉCNICAS DEL SISTEMA DE GESTIÓN DE LA CALIDAD DEL PRONAHEBAS; GUÍA DE SELECCIÓN DEL DONANTE DE SANGRE; MEDIDAS DE BIOSEGURIDAD; GUÍA DE PROCESOS DE FIDELIZACIÓN Y RETROALIMENTACIÓN DEL DONANTE DE SANGRE.",
+        "competencies": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÍN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA; PROACTIVIDAD.",
+        "application_url": "https://hospitaltarapoto.gob.pe/",
+        "application_text": "https://hospitaltarapoto.gob.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "EXPERIENCIA LABORAL MÍNIMA DE TRES (03) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+          "formacion_academica_-_perfil": "MÉDICO CIRUJANO",
+          "especializacion": "NO APLICA",
+          "conocimiento": "GUÍA DE PROCESOS Y PROCEDIMIENTOS DE ATENCIÓN AL DONANTE; NORMAS LEGALES Y TÉCNICAS DEL SISTEMA DE GESTIÓN DE LA CALIDAD DEL PRONAHEBAS; GUÍA DE SELECCIÓN DEL DONANTE DE SANGRE; MEDIDAS DE BIOSEGURIDAD; GUÍA DE PROCESOS DE FIDELIZACIÓN Y RETROALIMENTACIÓN DEL DONANTE DE SANGRE.",
+          "competencias": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÍN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA; PROACTIVIDAD."
+        }
+      }
     },
     {
       "index": 8,
@@ -184,7 +318,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
       "source_page": 1,
       "salary": 5342.4,
-      "detail": null
+      "detail": {
+        "external_id": "816483",
+        "title": "ENFERMERA/O",
+        "entity": "UNIDAD EJECUTORA HOSPITAL II-2 TARAPOTO",
+        "experience": "EXPERIENCIA LABORAL MÍNIMA DE TRES (03) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+        "academic_profile": "LICENCIADO EN ENFERMERÍA",
+        "specialization": "NO APLICA",
+        "knowledge": "REANIMACIÓN CARDIOPULMONAR BÁSICA Y AVANZADA NEONATAL, PEDIÁTRICA Y ADULTO; MEDIDAS DE BIOSEGURIDAD; MANEJO DE PACIENTES EN ESTADO CRÍTICO; MANEJO DE URGENCIAS Y EMERGENCIAS; SEGURIDAD DEL PACIENTE.",
+        "competencies": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÓN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA; PROACTIVIDAD.",
+        "application_url": "https://hospitaltarapoto.gob.pe/",
+        "application_text": "https://hospitaltarapoto.gob.pe/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "EXPERIENCIA LABORAL MÍNIMA DE TRES (03) AÑOS EN EL SECTOR PÚBLICO Y/O PRIVADO.",
+          "formacion_academica_-_perfil": "LICENCIADO EN ENFERMERÍA",
+          "especializacion": "NO APLICA",
+          "conocimiento": "REANIMACIÓN CARDIOPULMONAR BÁSICA Y AVANZADA NEONATAL, PEDIÁTRICA Y ADULTO; MEDIDAS DE BIOSEGURIDAD; MANEJO DE PACIENTES EN ESTADO CRÍTICO; MANEJO DE URGENCIAS Y EMERGENCIAS; SEGURIDAD DEL PACIENTE.",
+          "competencias": "TRABAJO EN EQUIPO; COMPORTAMIENTO ÉTICO; ORIENTACIÓN DE SERVICIO AL CIUDADANO; COMUNICACIÓN EFECTIVA; PROACTIVIDAD."
+        }
+      }
     },
     {
       "index": 9,
@@ -199,7 +352,26 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
       "source_page": 1,
       "salary": 7304.11,
-      "detail": null
+      "detail": {
+        "external_id": "816555",
+        "title": "SUPERVISOR ESPECIALISTA (SUPLENCIA)",
+        "entity": "ORGANISMO SUPERVISOR DE INVERSION PRIVADA EN TELECOMUNICACIONES-OSIPTEL",
+        "experience": "EXPERIENCIA GENERAL: 3 AÑOS EXPERIENCIA ESPECIFICA: 3 AÑOS EN FUNCIONES RELACIONADAS AL CARGO",
+        "academic_profile": "BACHILLER UNIVERSITARIO EN ESPECIALIDAD RELACIONADA AL CARGO",
+        "specialization": "DESEABLE GRADO DE MAESTRÍA O MASTER O TITULO UNIVERSITARIO - DESEABLE DIPLOMADOS NO MENOR A SEIS (06) MESES DE DURACIÓN EN ESPECIALIDAD RELACIONADA A SUS FUNCIONES",
+        "knowledge": "NO APLICA",
+        "competencies": "NO APLICA",
+        "application_url": "https://www.osiptel.gob.pe/vigente-cap/",
+        "application_text": "https://www.osiptel.gob.pe/vigente-cap/",
+        "source_detail_url": "https://app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/detalle_ofertas_laborales.xhtml",
+        "raw_requirements": {
+          "experiencia": "EXPERIENCIA GENERAL: 3 AÑOS EXPERIENCIA ESPECIFICA: 3 AÑOS EN FUNCIONES RELACIONADAS AL CARGO",
+          "formacion_academica_-_perfil": "BACHILLER UNIVERSITARIO EN ESPECIALIDAD RELACIONADA AL CARGO",
+          "especializacion": "DESEABLE GRADO DE MAESTRÍA O MASTER O TITULO UNIVERSITARIO - DESEABLE DIPLOMADOS NO MENOR A SEIS (06) MESES DE DURACIÓN EN ESPECIALIDAD RELACIONADA A SUS FUNCIONES",
+          "conocimiento": "NO APLICA",
+          "competencias": "NO APLICA"
+        }
+      }
     },
     {
       "index": 0,
@@ -499,306 +671,6 @@
       "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
       "source_page": 3,
       "salary": 3864.19,
-      "detail": null
-    },
-    {
-      "index": 0,
-      "title": "ESPECIALISTA DE ESTUDIOS ECONÓMICOS",
-      "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
-      "location": "AYACUCHO - AYACUCHO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-99",
-      "vacancies": 1,
-      "salary_text": "S/. 3,364.19",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
-      "source_page": 4,
-      "salary": 3364.19,
-      "detail": null
-    },
-    {
-      "index": 1,
-      "title": "ESPECIALISTA LEGAL",
-      "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
-      "location": "AYACUCHO - AYACUCHO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-111",
-      "vacancies": 1,
-      "salary_text": "S/. 3,000.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
-      "source_page": 4,
-      "salary": 3000,
-      "detail": null
-    },
-    {
-      "index": 2,
-      "title": "COORDINADOR DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN",
-      "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
-      "location": "AYACUCHO - AYACUCHO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-101",
-      "vacancies": 1,
-      "salary_text": "S/. 3,000.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
-      "source_page": 4,
-      "salary": 3000,
-      "detail": null
-    },
-    {
-      "index": 3,
-      "title": "AUXILIAR DE NUTRICIÓN",
-      "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
-      "location": "AYACUCHO - AYACUCHO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-106",
-      "vacancies": 14,
-      "salary_text": "S/. 1,664.19",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
-      "source_page": 4,
-      "salary": 1664.19,
-      "detail": null
-    },
-    {
-      "index": 4,
-      "title": "ASISTENTE ADMINISTRATIVO",
-      "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
-      "location": "AYACUCHO - AYACUCHO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-83",
-      "vacancies": 1,
-      "salary_text": "S/. 2,300.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
-      "source_page": 4,
-      "salary": 2300,
-      "detail": null
-    },
-    {
-      "index": 5,
-      "title": "ANALISTA EN ALMACENES",
-      "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
-      "location": "AYACUCHO - AYACUCHO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-105",
-      "vacancies": 1,
-      "salary_text": "S/. 2,300.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
-      "source_page": 4,
-      "salary": 2300,
-      "detail": null
-    },
-    {
-      "index": 6,
-      "title": "ANALISTA DE TESORERÍA",
-      "entity": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DH",
-      "location": "AYACUCHO - AYACUCHO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-104",
-      "vacancies": 1,
-      "salary_text": "S/. 2,300.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
-      "source_page": 4,
-      "salary": 2300,
-      "detail": null
-    },
-    {
-      "index": 7,
-      "title": "01 APOYO ADMINISTRATIVO (SIGLA – OT - 01).",
-      "entity": "GOBIERNO REGIONAL AYACUCHO",
-      "location": "AYACUCHO - AYACUCHO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-34",
-      "vacancies": 1,
-      "salary_text": "S/. 1,100.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
-      "source_page": 4,
-      "salary": 1100,
-      "detail": null
-    },
-    {
-      "index": 8,
-      "title": "RESPONSABLE DE LA DIVISION DE ESTUDIOS DEFINITIVOS Y OBRAS PUBLICAS",
-      "entity": "MUNICIPALIDAD DISTRITAL DE SOCOS",
-      "location": "AYACUCHO - SOCOS",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-004",
-      "vacancies": 1,
-      "salary_text": "S/. 2,764.19",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
-      "source_page": 4,
-      "salary": 2764.19,
-      "detail": null
-    },
-    {
-      "index": 9,
-      "title": "ASISTENTE(A) ADMINISTRATIVO(A)",
-      "entity": "INDECOPI",
-      "location": "CAJAMARCA - CAJAMARCA",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-140",
-      "vacancies": 1,
-      "salary_text": "S/. 2,400.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
-      "source_page": 4,
-      "salary": 2400,
-      "detail": null
-    },
-    {
-      "index": 0,
-      "title": "ESPECIALISTA EN CONTABILIDAD",
-      "entity": "MUNICIP. DISTRITAL DE MARANGANI CANCHIS",
-      "location": "CUSCO - OROPESA",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-4",
-      "vacancies": 1,
-      "salary_text": "S/. 3,500.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:0:j_idt78",
-      "source_page": 5,
-      "salary": 3500,
-      "detail": null
-    },
-    {
-      "index": 1,
-      "title": "ESPECIALISTA EN ABASTECIMIENTO",
-      "entity": "UNIDAD DE GESTION EDUCATIVA PARURO",
-      "location": "CUSCO - PARURO",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-19",
-      "vacancies": 1,
-      "salary_text": "S/. 3,150.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:1:j_idt78",
-      "source_page": 5,
-      "salary": 3150,
-      "detail": null
-    },
-    {
-      "index": 2,
-      "title": "JEFE DE LA UNIDAD FUNCIONAL DE CONTABILIDAD",
-      "entity": "MUNICIPALIDAD DISTRITAL DE SAN SALVADOR",
-      "location": "CUSCO - SAN SALVADOR",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-05",
-      "vacancies": 1,
-      "salary_text": "S/. 4,000.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:2:j_idt78",
-      "source_page": 5,
-      "salary": 4000,
-      "detail": null
-    },
-    {
-      "index": 3,
-      "title": "PROFESIONAL EN TRABAJO SOCIAL",
-      "entity": "PODER JUDICIAL",
-      "location": "CAJAMARCA - CHOTA",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-020",
-      "vacancies": 1,
-      "salary_text": "S/. 5,670.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:3:j_idt78",
-      "source_page": 5,
-      "salary": 5670,
-      "detail": null
-    },
-    {
-      "index": 4,
-      "title": "TESORERO",
-      "entity": "HOSPITAL DE PAMPAS DE TAYACAJA",
-      "location": "HUANCAVELICA - PAMPAS",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-7",
-      "vacancies": 1,
-      "salary_text": "S/. 002.80",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:4:j_idt78",
-      "source_page": 5,
-      "salary": 2.8,
-      "detail": null
-    },
-    {
-      "index": 5,
-      "title": "TECNÓLOGO MÉDICO EN RADIOLOGÍA",
-      "entity": "HOSPITAL DE PAMPAS DE TAYACAJA",
-      "location": "HUANCAVELICA - PAMPAS",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-7",
-      "vacancies": 1,
-      "salary_text": "S/. 003.26",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:5:j_idt78",
-      "source_page": 5,
-      "salary": 3.26,
-      "detail": null
-    },
-    {
-      "index": 6,
-      "title": "TECNOLOGO MEDICO EN TERAPIA FISICA Y REHABILITACION",
-      "entity": "HOSPITAL DE PAMPAS DE TAYACAJA",
-      "location": "HUANCAVELICA - PAMPAS",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-7",
-      "vacancies": 1,
-      "salary_text": "S/. 002.66",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:6:j_idt78",
-      "source_page": 5,
-      "salary": 2.66,
-      "detail": null
-    },
-    {
-      "index": 7,
-      "title": "TECNOLOGO MEDICO EN LAB. CLINICO Y ANATOMIA PATOLOGICA",
-      "entity": "HOSPITAL DE PAMPAS DE TAYACAJA",
-      "location": "HUANCAVELICA - PAMPAS",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-7",
-      "vacancies": 1,
-      "salary_text": "S/. 003.26",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:7:j_idt78",
-      "source_page": 5,
-      "salary": 3.26,
-      "detail": null
-    },
-    {
-      "index": 8,
-      "title": "TECNICO EN ENFERMERIA",
-      "entity": "HOSPITAL DE PAMPAS DE TAYACAJA",
-      "location": "HUANCAVELICA - PAMPAS",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-7",
-      "vacancies": 1,
-      "salary_text": "S/. 001.86",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:8:j_idt78",
-      "source_page": 5,
-      "salary": 1.86,
-      "detail": null
-    },
-    {
-      "index": 9,
-      "title": "LICENCIADO (A) EN ENFERMERIA",
-      "entity": "HOSPITAL DE PAMPAS DE TAYACAJA",
-      "location": "HUANCAVELICA - PAMPAS",
-      "convocatoria": "D.LEG 1057 - DETERMINADO (NECESIDAD TRANSITORIA)-7",
-      "vacancies": 1,
-      "salary_text": "S/. 266,419.00",
-      "publication_start": "06/10/2026",
-      "publication_end": "20/10/2026",
-      "detail_button_id": "frmLstOfertsLabo:idPnlRepeatPuestos:9:j_idt78",
-      "source_page": 5,
-      "salary": 266419,
       "detail": null
     }
   ]
