@@ -178,20 +178,15 @@ async function ensureListPage(page, targetPage) {
   }
 
   if (info.current && info.current > targetPage) {
-    const first = page
-      .getByRole("button", { name: "Primero", exact: true })
-      .first();
+    console.log(
+      `Reiniciando listado: página actual ${info.current}, objetivo ${targetPage}`
+    );
 
-    if (await first.isEnabled().catch(() => false)) {
-      await first.click();
-      await page.waitForTimeout(1500);
-    } else {
-      await page.goto(URL, {
-        waitUntil: "domcontentloaded",
-        timeout: 60000,
-      });
-      await page.waitForTimeout(1500);
-    }
+    await page.goto(URL, {
+      waitUntil: "domcontentloaded",
+      timeout: 60000,
+    });
+    await page.waitForTimeout(1800);
   }
 
   info = await currentPageNumber(page);
@@ -293,7 +288,7 @@ async function extractDetail(page) {
 
   const targetDate = getArg("date") || limaToday();
   const detailLimit = Number(getArg("limit") || 10);
-  const maxPages = Number(getArg("max-pages") || 25);
+  const maxPages = Number(getArg("max-pages") || 100);
 
   if (!parseDate(targetDate)) {
     throw new Error(
@@ -403,11 +398,36 @@ async function extractDetail(page) {
 
     result.total_today = result.jobs.length;
 
+    const outputFile = path.join(OUT_DIR, "today-jobs.json");
+
+    // Guardamos primero el listado descubierto. Así no se pierde el
+    // resultado aunque ocurra un error mientras se visitan los detalles.
+    fs.writeFileSync(outputFile, JSON.stringify(result, null, 2), "utf8");
+
     console.log("");
     console.log("Ofertas encontradas para la fecha:", result.total_today);
     console.log("");
 
     const detailJobs = result.jobs.slice(0, detailLimit);
+
+    // La exploración puede terminar en una página avanzada. Para los detalles
+    // usamos una sesión nueva, que siempre parte del listado inicial.
+    const detailContext = await browser.newContext({
+      viewport: { width: 1440, height: 1000 },
+      locale: "es-PE",
+      timezoneId: "America/Lima",
+    });
+
+    const detailPage = await detailContext.newPage();
+
+    const detailResponse = await detailPage.goto(URL, {
+      waitUntil: "domcontentloaded",
+      timeout: 60000,
+    });
+
+    await detailPage.waitForTimeout(1800);
+
+    console.log("STATUS DETALLES:", detailResponse?.status());
 
     for (let i = 0; i < detailJobs.length; i++) {
       const job = detailJobs[i];
@@ -416,15 +436,15 @@ async function extractDetail(page) {
         `Detalle ${i + 1}/${detailJobs.length}: ${job.title}`
       );
 
-      await ensureListPage(page, job.source_page);
+      await ensureListPage(detailPage, job.source_page);
 
-      const card = page.locator(".cuadro-vacantes").nth(job.index);
+      const card = detailPage.locator(".cuadro-vacantes").nth(job.index);
       const button = card.locator(
         'button[title="¡Ver más!"], button[title*="Ver más"]'
       );
 
       await Promise.all([
-        page
+        detailPage
           .waitForURL(/detalle_ofertas_laborales\.xhtml/, {
             timeout: 30000,
           })
@@ -432,37 +452,46 @@ async function extractDetail(page) {
         button.click(),
       ]);
 
-      await page.waitForTimeout(1200);
+      await detailPage.waitForTimeout(1200);
 
-      const detail = await extractDetail(page);
+      const detail = await extractDetail(detailPage);
       job.detail = detail;
 
-      const back = page.getByRole("button", {
+      const back = detailPage.getByRole("button", {
         name: "Volver a la lista",
         exact: true,
       });
 
       if (await back.isVisible().catch(() => false)) {
         await back.click();
-        await page.waitForURL(/ofertas_laborales\.xhtml/, {
+        await detailPage.waitForURL(/ofertas_laborales\.xhtml/, {
           timeout: 30000,
         }).catch(() => {});
-        await page.waitForTimeout(1200);
+        await detailPage.waitForTimeout(1200);
       } else {
-        await page.goto(URL, {
+        await detailPage.goto(URL, {
           waitUntil: "domcontentloaded",
           timeout: 60000,
         });
-        await page.waitForTimeout(1200);
+        await detailPage.waitForTimeout(1200);
       }
+
+      // Persistimos el progreso después de cada detalle.
+      fs.writeFileSync(outputFile, JSON.stringify(result, null, 2), "utf8");
     }
 
-    const file = path.join(OUT_DIR, "today-jobs.json");
-    fs.writeFileSync(file, JSON.stringify(result, null, 2), "utf8");
+    await detailContext.close();
+
+    fs.writeFileSync(outputFile, JSON.stringify(result, null, 2), "utf8");
+
+    const errorFile = path.join(OUT_DIR, "today-error.json");
+    if (fs.existsSync(errorFile)) {
+      fs.unlinkSync(errorFile);
+    }
 
     console.log("");
     console.log("Resultado generado:");
-    console.log(file);
+    console.log(outputFile);
     console.log("");
     console.log(
       `Se encontraron ${result.total_today} ofertas del ${targetDate} y se extrajeron ${detailJobs.length} detalles.`
